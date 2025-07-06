@@ -148,7 +148,7 @@ http://k.061899.xyz/m.php?id=cctv17
 
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="📺IPTV卫视",北京卫视
-http://61.134.248.65:9003/hls/20/index.m3u8
+http://k.061899.xyz/m.php?id=bjws 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="📺IPTV卫视",东方卫视
 http://k.061899.xyz/m.php?id=dfws 
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="📺IPTV卫视",浙江卫视
@@ -168,7 +168,7 @@ http://k.061899.xyz/m.php?id=tjws
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="📺IPTV卫视",安徽卫视
 http://k.061899.xyz/m.php?id=ahws 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="📺IPTV卫视",山东卫视
-http://61.134.204.177:9003/hls/41/index.m3u8
+http://k.061899.xyz/m.php?id=sdws 
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="📺IPTV卫视",山西卫视
 http://61.134.204.177:9003/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="📺IPTV卫视",辽宁卫视
@@ -186,9 +186,9 @@ http://110.177.144.22:9003/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="📺IPTV卫视",贵州卫视
 http://k.061899.xyz/m.php?id=gzws
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="📺IPTV卫视",湖北卫视
-http://110.177.144.22:9003/hls/32/index.m3u8
+http://k.061899.xyz/m.php?id=hubws
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="📺IPTV卫视",广西卫视
-http://61.134.204.177:9003/hls/27/index.m3u8
+http://k.061899.xyz/m.php?id=gxws
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="📺IPTV卫视",云南卫视
 http://61.134.204.177:9003/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="📺IPTV卫视",东南卫视
@@ -208,7 +208,7 @@ http://k.061899.xyz/m.php?id=xzws
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="📺IPTV卫视",内蒙古卫视
 http://k.061899.xyz/m.php?id=nmgws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="📺IPTV卫视",黑龙江卫视
-http://61.134.204.177:9003/hls/31/index.m3u8
+http://k.061899.xyz/m.php?id=hljws
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺咪咕央视",CCTV-1
