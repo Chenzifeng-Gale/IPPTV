@@ -285,15 +285,15 @@ http://frp.jl.cloudns.org:7777/udp/239.37.0.12:5540
 http://frp.jl.cloudns.org:7777/udp/239.37.0.14:5540
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="📺吉林电信",黑龙江卫视
 http://frp.jl.cloudns.org:7777/udp/239.37.0.13:5540
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视" group-title="📺吉林电信",辽宁卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="📺吉林电信",辽宁卫视
 http://frp.jl.cloudns.org:7777/udp/239.37.0.160:5540
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视" group-title="📺吉林电信",安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="📺吉林电信",安徽卫视
 http://frp.jl.cloudns.org:7777/udp/239.37.0.159:5540
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="📺吉林电信",湖北卫视
 http://frp.jl.cloudns.org:7777/udp/239.37.0.16:5540
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="📺吉林电信",东南卫视
 http://frp.jl.cloudns.org:7777/udp/239.37.0.124:5540
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视" group-title="📺吉林电信",海南卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="📺吉林电信",海南卫视
 http://frp.jl.cloudns.org:7777/udp/239.37.0.102:5540
 
 
