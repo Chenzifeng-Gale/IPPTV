@@ -105,7 +105,7 @@ http://120.76.248.139/live/bfgd/4200000117.m3u8
 http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="📺全网通卫视",厦门卫视
 http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
-#EXTINF:-1 tvg-name="亮剑" tvg-logo="https://live.fanmingming.cn/tv/亮剑.png" group-title="📺全网通卫视",亮剑
+#EXTINF:-1 tvg-name="亮剑" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/亮剑.png" group-title="📺全网通卫视",亮剑
 http://cfss.cc/cdn/hy/30080238.m3u8
 
 
