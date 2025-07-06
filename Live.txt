@@ -557,3 +557,351 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="📺港澳台",翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺吉林电信",CCTV-1综合
+http://frp.jl.cloudns.org:7777/udp/239.37.0.108:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.149:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.152:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.197:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.204:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.221:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.224:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.235:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.55:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.8:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.1.10:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.1.8:5540
+
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺吉林电信",CCTV-2综合
+http://frp.jl.cloudns.org:7777/udp/239.37.0.3:5540
+
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="📺吉林电信",CCTV-3综艺
+http://frp.jl.cloudns.org:7777/udp/239.37.0.231:5540
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="📺吉林电信",CCTV-4中文国际
+http://frp.jl.cloudns.org:7777/udp/239.37.1.25:5540
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺吉林电信",CCTV-5体育
+http://frp.jl.cloudns.org:7777/udp/239.37.0.232:5540
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺吉林电信",CCTV-6电影
+http://frp.jl.cloudns.org:7777/udp/239.37.0.233:5540
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="📺吉林电信",CCTV-7国防军事
+http://frp.jl.cloudns.org:7777/udp/239.37.1.20:5540
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="📺吉林电信",CCTV-8电视剧
+http://frp.jl.cloudns.org:7777/udp/239.37.0.234:5540
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="📺吉林电信",CCTV-9纪录
+http://frp.jl.cloudns.org:7777/udp/239.37.0.1:5540
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="📺吉林电信",CCTV-10科教
+http://frp.jl.cloudns.org:7777/udp/239.37.0.7:5540
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="📺吉林电信",CCTV-11戏曲
+http://frp.jl.cloudns.org:7777/udp/239.37.1.26:5540
+
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="📺吉林电信",CCTV-12社会与法
+http://frp.jl.cloudns.org:7777/udp/239.37.0.6:5540
+
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="📺吉林电信",CCTV-13新闻
+http://frp.jl.cloudns.org:7777/udp/239.37.1.27:5540
+
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="📺吉林电信",CCTV-14少儿
+http://frp.jl.cloudns.org:7777/udp/239.37.0.5:5540
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="📺吉林电信",CCTV-15音乐
+http://frp.jl.cloudns.org:7777/udp/239.37.1.28:5540
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="📺吉林电信",CCTV-16奥林匹克
+http://frp.jl.cloudns.org:7777/udp/239.37.1.21:5540
+
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺吉林电信",CCTV-17农业农村
+http://frp.jl.cloudns.org:7777/udp/239.37.0.2:5540
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="📺吉林电信",CCTV-4K超高清
+http://frp.jl.cloudns.org:7777/udp/239.37.0.31:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.34:5540
+
+#EXTINF:-1 tvg-name="CCTV16_4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="📺吉林电信",CCTV-16_4K
+http://frp.jl.cloudns.org:7777/udp/239.37.1.22:5540
+
+#EXTINF:-1 tvg-name="JILINWS" tvg-logo="https://live.fanmingming.cn/tv/Jilin.png" group-title="📺吉林电信",吉林卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.111:5540
+
+#EXTINF:-1 tvg-name="JILINDS" tvg-logo="" group-title="📺吉林电信",吉林都市
+http://frp.jl.cloudns.org:7777/udp/239.37.1.2:5540
+
+#EXTINF:-1 tvg-name="JILINYS" tvg-logo="" group-title="📺吉林电信",吉林影视
+http://frp.jl.cloudns.org:7777/udp/239.37.1.3:5540
+
+#EXTINF:-1 tvg-name="JILINSH" tvg-logo="" group-title="📺吉林电信",吉林生活
+http://frp.jl.cloudns.org:7777/udp/239.37.1.4:5540
+
+#EXTINF:-1 tvg-name="JILINXC" tvg-logo="" group-title="📺吉林电信",吉林乡村
+http://frp.jl.cloudns.org:7777/udp/239.37.1.5:5540
+
+#EXTINF:-1 tvg-name="JILINGGXW" tvg-logo="" group-title="📺吉林电信",吉林公共新闻
+http://frp.jl.cloudns.org:7777/udp/239.37.1.6:5540
+
+#EXTINF:-1 tvg-name="JILINZYWH" tvg-logo="" group-title="📺吉林电信",吉林综艺文化
+http://frp.jl.cloudns.org:7777/udp/239.37.1.7:5540
+
+#EXTINF:-1 tvg-name="JILINDBXQ" tvg-logo="" group-title="📺吉林电信",吉林东北戏曲
+http://frp.jl.cloudns.org:7777/udp/239.37.1.9:5540
+
+#EXTINF:-1 tvg-name="BTV1" tvg-logo="https://live.fanmingming.cn/tv/Beijing.png" group-title="📺吉林电信",北京卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.9:5540
+
+#EXTINF:-1 tvg-name="DFWS" tvg-logo="https://live.fanmingming.cn/tv/Dongfang.png" group-title="📺吉林电信",东方卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.123:5540
+
+#EXTINF:-1 tvg-name="HUNANWS" tvg-logo="https://live.fanmingming.cn/tv/Hunan.png" group-title="📺吉林电信",湖南卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.10:5540
+
+#EXTINF:-1 tvg-name="ZHEJIANGWS" tvg-logo="https://live.fanmingming.cn/tv/Zhejiang.png" group-title="📺吉林电信",浙江卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.153:5540
+
+#EXTINF:-1 tvg-name="JIANGSUWS" tvg-logo="https://live.fanmingming.cn/tv/Jiangsu.png" group-title="📺吉林电信",江苏卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.112:5540
+
+#EXTINF:-1 tvg-name="SHANDONGWS" tvg-logo="https://live.fanmingming.cn/tv/Shandong.png" group-title="📺吉林电信",山东卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.15:5540
+
+#EXTINF:-1 tvg-name="TIANJINWS" tvg-logo="https://live.fanmingming.cn/tv/Tianjin.png" group-title="📺吉林电信",天津卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.4:5540
+
+#EXTINF:-1 tvg-name="CHONGQINGWS" tvg-logo="https://live.fanmingming.cn/tv/Chongqing.png" group-title="📺吉林电信",重庆卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.158:5540
+
+#EXTINF:-1 tvg-name="SICHUANWS" tvg-logo="https://live.fanmingming.cn/tv/Sichuan.png" group-title="📺吉林电信",四川卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.151:5540
+
+#EXTINF:-1 tvg-name="GUANGDONGWS" tvg-logo="https://live.fanmingming.cn/tv/Guangdong.png" group-title="📺吉林电信",广东卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.12:5540
+
+#EXTINF:-1 tvg-name="SHENZHENWS" tvg-logo="https://live.fanmingming.cn/tv/Shenzhen.png" group-title="📺吉林电信",深圳卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.14:5540
+
+#EXTINF:-1 tvg-name="HEILONGJIANGWS" tvg-logo="https://live.fanmingming.cn/tv/Heilongjiang.png" group-title="📺吉林电信",黑龙江卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.13:5540
+
+#EXTINF:-1 tvg-name="LIAONINGWS" tvg-logo="https://live.fanmingming.cn/tv/Liaoning.png" group-title="📺吉林电信",辽宁卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.160:5540
+
+#EXTINF:-1 tvg-name="ANHUIWS" tvg-logo="https://live.fanmingming.cn/tv/Anhui.png" group-title="📺吉林电信",安徽卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.159:5540
+
+#EXTINF:-1 tvg-name="HUBEIWS" tvg-logo="https://live.fanmingming.cn/tv/Hubei.png" group-title="📺吉林电信",湖北卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.16:5540
+
+#EXTINF:-1 tvg-name="DONNANWS" tvg-logo="https://live.fanmingming.cn/tv/Dongnan.png" group-title="📺吉林电信",东南卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.124:5540
+
+#EXTINF:-1 tvg-name="HAINANWS" tvg-logo="https://live.fanmingming.cn/tv/Hainan.png" group-title="📺吉林电信",海南卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.102:5540
+
+#EXTINF:-1 tvg-name="CHC" tvg-logo="" group-title="📺吉林电信",CHC家庭影院
+http://frp.jl.cloudns.org:7777/udp/239.37.0.188:5540
+
+#EXTINF:-1 tvg-name="CHC" tvg-logo="" group-title="📺吉林电信",CHC动作电影
+http://frp.jl.cloudns.org:7777/udp/239.37.0.186:5540
+
+#EXTINF:-1 tvg-name="CHC" tvg-logo="" group-title="📺吉林电信",CHC影迷电影
+http://frp.jl.cloudns.org:7777/udp/239.37.0.187:5540
+
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="📺吉林电信",CGTN
+http://frp.jl.cloudns.org:7777/udp/239.37.1.13:5540
+
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="" group-title="📺吉林电信",CGTN纪录
+http://frp.jl.cloudns.org:7777/udp/239.37.1.14:5540
+
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="" group-title="📺吉林电信",CGTN西班牙语
+http://frp.jl.cloudns.org:7777/udp/239.37.1.15:5540
+
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="" group-title="📺吉林电信",CGTN法语
+http://frp.jl.cloudns.org:7777/udp/239.37.1.16:5540
+
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="" group-title="📺吉林电信",CGTN阿拉伯语
+http://frp.jl.cloudns.org:7777/udp/239.37.1.17:5540
+
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="" group-title="📺吉林电信",CGTN俄语
+http://frp.jl.cloudns.org:7777/udp/239.37.1.18:5540
+
+#EXTINF:-1 tvg-name="JINYINGKATONG" tvg-logo="" group-title="📺吉林电信",金鹰卡通
+http://frp.jl.cloudns.org:7777/udp/239.37.0.61:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.1.19:5540
+
+#EXTINF:-1 tvg-name="KAKUSHAOER" tvg-logo="" group-title="📺吉林电信",卡酷少儿
+http://frp.jl.cloudns.org:7777/udp/239.37.0.76:5540
+
+#EXTINF:-1 tvg-name="YOUYOUBABY" tvg-logo="" group-title="📺吉林电信",优优宝贝
+http://frp.jl.cloudns.org:7777/udp/239.37.0.107:5540
+
+#EXTINF:-1 tvg-name="XINDONGMAN" tvg-logo="" group-title="📺吉林电信",新动漫
+http://frp.jl.cloudns.org:7777/udp/239.37.0.106:5540
+
+#EXTINF:-1 tvg-name="DONGMANXC" tvg-logo="" group-title="📺吉林电信",动漫秀场
+http://frp.jl.cloudns.org:7777/udp/239.37.0.242:5540
+
+#EXTINF:-1 tvg-name="CHANGYING" tvg-logo="" group-title="📺吉林电信",长影频道
+http://frp.jl.cloudns.org:7777/udp/239.37.0.125:5540
+
+#EXTINF:-1 tvg-name="JILINLANQIU" tvg-logo="" group-title="📺吉林电信",吉林篮球
+http://frp.jl.cloudns.org:7777/udp/239.37.0.212:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.216:5540
+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="📺吉林电信",CCTV-5+体育赛事
+http://frp.jl.cloudns.org:7777/udp/239.37.0.121:5540
+
+#EXTINF:-1 tvg-name="CCTVGOLF" tvg-logo="" group-title="📺吉林电信",CCTV高尔夫网球
+http://frp.jl.cloudns.org:7777/udp/239.37.0.230:5540
+
+#EXTINF:-1 tvg-name="FENGYUNZQ" tvg-logo="" group-title="📺吉林电信",风云足球
+http://frp.jl.cloudns.org:7777/udp/239.37.0.80:5540
+
+#EXTINF:-1 tvg-name="JINGCAIJINGJI" tvg-logo="" group-title="📺吉林电信",睛彩竞技
+http://frp.jl.cloudns.org:7777/udp/239.37.0.215:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.41:5540
+
+#EXTINF:-1 tvg-name="JINGCAILANQIU" tvg-logo="" group-title="📺吉林电信",睛彩篮球
+http://frp.jl.cloudns.org:7777/udp/239.37.0.38:5540
+
+#EXTINF:-1 tvg-name="KUAILECHDIAO" tvg-logo="" group-title="📺吉林电信",快乐垂钓
+http://frp.jl.cloudns.org:7777/udp/239.37.0.244:5540
+
+#EXTINF:-1 tvg-name="WUSHUWORLD" tvg-logo="" group-title="📺吉林电信",武术世界
+http://frp.jl.cloudns.org:7777/udp/239.37.0.227:5540
+
+#EXTINF:-1 tvg-name="BINGQIKJ" tvg-logo="" group-title="📺吉林电信",CCTV兵器科技
+http://frp.jl.cloudns.org:7777/udp/239.37.0.84:5540
+
+#EXTINF:-1 tvg-name="SJJYDK" tvg-logo="" group-title="📺吉林电信",CCTV世界地理
+http://frp.jl.cloudns.org:7777/udp/239.37.0.79:5540
+
+#EXTINF:-1 tvg-name="WSJK" tvg-logo="" group-title="📺吉林电信",CCTV卫生健康
+http://frp.jl.cloudns.org:7777/udp/239.37.0.229:5540
+
+#EXTINF:-1 tvg-name="CCTVWHJP" tvg-logo="" group-title="📺吉林电信",CCTV央视文化精品
+http://frp.jl.cloudns.org:7777/udp/239.37.0.83:5540
+
+#EXTINF:-1 tvg-name="CCTVNXXS" tvg-logo="" group-title="📺吉林电信",CCTV女性时尚
+http://frp.jl.cloudns.org:7777/udp/239.37.0.69:5540
+
+#EXTINF:-1 tvg-name="CCTVHQJC" tvg-logo="" group-title="📺吉林电信",CCTV怀旧剧场
+http://frp.jl.cloudns.org:7777/udp/239.37.0.82:5540
+
+#EXTINF:-1 tvg-name="CCTVDYZN" tvg-logo="" group-title="📺吉林电信",CCTV电视指南
+http://frp.jl.cloudns.org:7777/udp/239.37.0.115:5540
+
+#EXTINF:-1 tvg-name="CCTVDYJC" tvg-logo="" group-title="📺吉林电信",CCTV第一剧场
+http://frp.jl.cloudns.org:7777/udp/239.37.0.78:5540
+
+#EXTINF:-1 tvg-name="CCTVFYJC" tvg-logo="" group-title="📺吉林电信",CCTV风云剧场
+http://frp.jl.cloudns.org:7777/udp/239.37.0.114:5540
+
+#EXTINF:-1 tvg-name="CCTVFYYY" tvg-logo="" group-title="📺吉林电信",CCTV风云音乐
+http://frp.jl.cloudns.org:7777/udp/239.37.0.81:5540
+
+#EXTINF:-1 tvg-name="CCTVTQ" tvg-logo="" group-title="📺吉林电信",CCTV央视台球
+http://frp.jl.cloudns.org:7777/udp/239.37.0.163:5540
+
+#EXTINF:-1 tvg-name="DSJC" tvg-logo="" group-title="📺吉林电信",都市剧场
+http://frp.jl.cloudns.org:7777/udp/239.37.0.241:5540
+
+#EXTINF:-1 tvg-name="LYPD" tvg-logo="" group-title="📺吉林电信",乐游
+http://frp.jl.cloudns.org:7777/udp/239.37.0.236:5540
+
+#EXTINF:-1 tvg-name="JSPD" tvg-logo="" group-title="📺吉林电信",睛彩广场舞
+http://frp.jl.cloudns.org:7777/udp/239.37.0.223:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.42:5540
+
+#EXTINF:-1 tvg-name="JINGCAIQINGS" tvg-logo="" group-title="📺吉林电信",睛彩青少
+http://frp.jl.cloudns.org:7777/udp/239.37.0.40:5540
+
+#EXTINF:-1 tvg-name="JSHJXJ" tvg-logo="" group-title="📺吉林电信",聚鲨环球精选
+http://frp.jl.cloudns.org:7777/udp/239.37.0.50:5540
+
+#EXTINF:-1 tvg-name="SHSS" tvg-logo="" group-title="📺吉林电信",生活时尚
+http://frp.jl.cloudns.org:7777/udp/239.37.0.240:5540
+
+#EXTINF:-1 tvg-name="FZTD" tvg-logo="" group-title="📺吉林电信",法治天地
+http://frp.jl.cloudns.org:7777/udp/239.37.0.238:5540
+
+#EXTINF:-1 tvg-name="JSXX" tvg-logo="" group-title="📺吉林电信",金色学堂
+http://frp.jl.cloudns.org:7777/udp/239.37.0.239:5540
+
+#EXTINF:-1 tvg-name="CPD" tvg-logo="" group-title="📺吉林电信",茶频道
+http://frp.jl.cloudns.org:7777/udp/239.37.0.245:5540
+
+#EXTINF:-1 tvg-name="WXYK" tvg-logo="" group-title="📺吉林电信",文物宝库
+http://frp.jl.cloudns.org:7777/udp/239.37.0.87:5540
+
+#EXTINF:-1 tvg-name="LYPD" tvg-logo="" group-title="📺吉林电信",梨园频道
+http://frp.jl.cloudns.org:7777/udp/239.37.0.228:5540
+
+#EXTINF:-1 tvg-name="GXQK" tvg-logo="" group-title="📺吉林电信",环球奇观
+http://frp.jl.cloudns.org:7777/udp/239.37.0.105:5540
+
+#EXTINF:-1 tvg-name="FZPD" tvg-logo="" group-title="📺吉林电信",发现之旅
+http://frp.jl.cloudns.org:7777/udp/239.37.0.46:5540
+
+#EXTINF:-1 tvg-name="GXPD" tvg-logo="" group-title="📺吉林电信",国学频道
+http://frp.jl.cloudns.org:7777/udp/239.37.0.93:5540
+
+#EXTINF:-1 tvg-name="LSPD" tvg-logo="" group-title="📺吉林电信",老故事
+http://frp.jl.cloudns.org:7777/udp/239.37.0.44:5540
+
+#EXTINF:-1 tvg-name="JYXC" tvg-logo="" group-title="📺吉林电信",游戏风云
+http://frp.jl.cloudns.org:7777/udp/239.37.0.243:5540
+
+#EXTINF:-1 tvg-name="BJJSKJ" tvg-logo="" group-title="📺吉林电信",北京纪实科教
+http://frp.jl.cloudns.org:7777/udp/239.37.0.101:5540
+
+#EXTINF:-1 tvg-name="JYJY" tvg-logo="" group-title="📺吉林电信",中国教育-1
+http://frp.jl.cloudns.org:7777/udp/239.37.0.193:5540
+
+#EXTINF:-1 tvg-name="MIGU" tvg-logo="" group-title="📺吉林电信",咪咕视频
+http://frp.jl.cloudns.org:7777/udp/239.37.0.194:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.195:5540
+
+#EXTINF:-1 tvg-name="JPD" tvg-logo="" group-title="📺吉林电信",九屏导视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.47:5540
+
+#EXTINF:-1 tvg-name="CCSY" tvg-logo="" group-title="📺吉林电信",长春综合
+http://frp.jl.cloudns.org:7777/udp/239.37.0.96:5540
+
+#EXTINF:-1 tvg-name="CCJJ" tvg-logo="" group-title="📺吉林电信",长春经济
+http://frp.jl.cloudns.org:7777/udp/239.37.0.99:5540
+
+#EXTINF:-1 tvg-name="CCQC" tvg-logo="" group-title="📺吉林电信",长春汽车
+http://frp.jl.cloudns.org:7777/udp/239.37.0.100:5540
+
+#EXTINF:-1 tvg-name="CCWL" tvg-logo="" group-title="📺吉林电信",长春文旅体育
+http://frp.jl.cloudns.org:7777/udp/239.37.0.97:5540
+
+#EXTINF:-1 tvg-name="CCSH" tvg-logo="" group-title="📺吉林电信",长春市民生活
+http://frp.jl.cloudns.org:7777/udp/239.37.0.98:5540
+
+#EXTINF:-1 tvg-name="ZXS" tvg-logo="" group-title="📺吉林电信",中学生
+http://frp.jl.cloudns.org:7777/udp/239.37.0.95:5540
+
+#EXTINF:-1 tvg-name="TEST" tvg-logo="" group-title="📺吉林电信",测试卡
+http://frp.jl.cloudns.org:7777/udp/239.37.0.203:5540
+
+#EXTINF:-1 tvg-name="BSTXC" tvg-logo="" group-title="📺吉林电信",百视通宣传
+http://frp.jl.cloudns.org:7777/udp/239.37.0.142:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.150:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.162:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.211:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.213:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.214:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.222:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.237:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.253:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.254:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.88:5540
