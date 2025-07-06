@@ -210,6 +210,92 @@ http://k.061899.xyz/m.php?id=nmgws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="📺IPTV卫视",黑龙江卫视
 http://k.061899.xyz/m.php?id=hljws
 
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺吉林电信",CCTV-1综合
+http://frp.jl.cloudns.org:7777/udp/239.37.0.108:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.149:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.152:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.197:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.204:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.221:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.224:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.235:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.55:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.0.8:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.1.10:5540
+http://frp.jl.cloudns.org:7777/udp/239.37.1.8:5540
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺吉林电信",CCTV-2综合
+http://frp.jl.cloudns.org:7777/udp/239.37.0.3:5540
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="📺吉林电信",CCTV-3综艺
+http://frp.jl.cloudns.org:7777/udp/239.37.0.231:5540
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="📺吉林电信",CCTV-4中文国际
+http://frp.jl.cloudns.org:7777/udp/239.37.1.25:5540
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺吉林电信",CCTV-5体育
+http://frp.jl.cloudns.org:7777/udp/239.37.0.232:5540
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺吉林电信",CCTV-6电影
+http://frp.jl.cloudns.org:7777/udp/239.37.0.233:5540
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="📺吉林电信",CCTV-7国防军事
+http://frp.jl.cloudns.org:7777/udp/239.37.1.20:5540
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="📺吉林电信",CCTV-8电视剧
+http://frp.jl.cloudns.org:7777/udp/239.37.0.234:5540
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="📺吉林电信",CCTV-9纪录
+http://frp.jl.cloudns.org:7777/udp/239.37.0.1:5540
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="📺吉林电信",CCTV-10科教
+http://frp.jl.cloudns.org:7777/udp/239.37.0.7:5540
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="📺吉林电信",CCTV-11戏曲
+http://frp.jl.cloudns.org:7777/udp/239.37.1.26:5540
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="📺吉林电信",CCTV-12社会与法
+http://frp.jl.cloudns.org:7777/udp/239.37.0.6:5540
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="📺吉林电信",CCTV-13新闻
+http://frp.jl.cloudns.org:7777/udp/239.37.1.27:5540
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="📺吉林电信",CCTV-14少儿
+http://frp.jl.cloudns.org:7777/udp/239.37.0.5:5540
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="📺吉林电信",CCTV-15音乐
+http://frp.jl.cloudns.org:7777/udp/239.37.1.28:5540
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="📺吉林电信",CCTV-16奥林匹克
+http://frp.jl.cloudns.org:7777/udp/239.37.1.21:5540
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺吉林电信",CCTV-17农业农村
+http://frp.jl.cloudns.org:7777/udp/239.37.0.2:5540
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="📺吉林电信",CCTV-4K超高清
+http://frp.jl.cloudns.org:7777/udp/239.37.0.34:5540
+#EXTINF:-1 tvg-name="CCTV16_4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="📺吉林电信",CCTV-16_4K
+http://frp.jl.cloudns.org:7777/udp/239.37.1.22:5540
+#EXTINF:-1 tvg-name="JILINWS" tvg-logo="https://live.fanmingming.cn/tv/Jilin.png" group-title="📺吉林电信",吉林卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.111:5540
+#EXTINF:-1 tvg-name="BTV1" tvg-logo="https://live.fanmingming.cn/tv/Beijing.png" group-title="📺吉林电信",北京卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.9:5540
+#EXTINF:-1 tvg-name="DFWS" tvg-logo="https://live.fanmingming.cn/tv/Dongfang.png" group-title="📺吉林电信",东方卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.123:5540
+#EXTINF:-1 tvg-name="HUNANWS" tvg-logo="https://live.fanmingming.cn/tv/Hunan.png" group-title="📺吉林电信",湖南卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.10:5540
+#EXTINF:-1 tvg-name="ZHEJIANGWS" tvg-logo="https://live.fanmingming.cn/tv/Zhejiang.png" group-title="📺吉林电信",浙江卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.153:5540
+#EXTINF:-1 tvg-name="JIANGSUWS" tvg-logo="https://live.fanmingming.cn/tv/Jiangsu.png" group-title="📺吉林电信",江苏卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.112:5540
+#EXTINF:-1 tvg-name="SHANDONGWS" tvg-logo="https://live.fanmingming.cn/tv/Shandong.png" group-title="📺吉林电信",山东卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.15:5540
+#EXTINF:-1 tvg-name="TIANJINWS" tvg-logo="https://live.fanmingming.cn/tv/Tianjin.png" group-title="📺吉林电信",天津卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.4:5540
+#EXTINF:-1 tvg-name="CHONGQINGWS" tvg-logo="https://live.fanmingming.cn/tv/Chongqing.png" group-title="📺吉林电信",重庆卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.158:5540
+#EXTINF:-1 tvg-name="SICHUANWS" tvg-logo="https://live.fanmingming.cn/tv/Sichuan.png" group-title="📺吉林电信",四川卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.151:5540
+#EXTINF:-1 tvg-name="GUANGDONGWS" tvg-logo="https://live.fanmingming.cn/tv/Guangdong.png" group-title="📺吉林电信",广东卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.12:5540
+#EXTINF:-1 tvg-name="SHENZHENWS" tvg-logo="https://live.fanmingming.cn/tv/Shenzhen.png" group-title="📺吉林电信",深圳卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.14:5540
+#EXTINF:-1 tvg-name="HEILONGJIANGWS" tvg-logo="https://live.fanmingming.cn/tv/Heilongjiang.png" group-title="📺吉林电信",黑龙江卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.13:5540
+#EXTINF:-1 tvg-name="LIAONINGWS" tvg-logo="https://live.fanmingming.cn/tv/Liaoning.png" group-title="📺吉林电信",辽宁卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.160:5540
+#EXTINF:-1 tvg-name="ANHUIWS" tvg-logo="https://live.fanmingming.cn/tv/Anhui.png" group-title="📺吉林电信",安徽卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.159:5540
+#EXTINF:-1 tvg-name="HUBEIWS" tvg-logo="https://live.fanmingming.cn/tv/Hubei.png" group-title="📺吉林电信",湖北卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.16:5540
+#EXTINF:-1 tvg-name="DONNANWS" tvg-logo="https://live.fanmingming.cn/tv/Dongnan.png" group-title="📺吉林电信",东南卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.124:5540
+#EXTINF:-1 tvg-name="HAINANWS" tvg-logo="https://live.fanmingming.cn/tv/Hainan.png" group-title="📺吉林电信",海南卫视
+http://frp.jl.cloudns.org:7777/udp/239.37.0.102:5540
+
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺咪咕央视",CCTV-1
 http://8.138.169.15:8001/mgtv/608807420.m3u8
@@ -559,91 +645,4 @@ http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 
 
-
-#EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺吉林电信",CCTV-1综合
-http://frp.jl.cloudns.org:7777/udp/239.37.0.108:5540
-http://frp.jl.cloudns.org:7777/udp/239.37.0.149:5540
-http://frp.jl.cloudns.org:7777/udp/239.37.0.152:5540
-http://frp.jl.cloudns.org:7777/udp/239.37.0.197:5540
-http://frp.jl.cloudns.org:7777/udp/239.37.0.204:5540
-http://frp.jl.cloudns.org:7777/udp/239.37.0.221:5540
-http://frp.jl.cloudns.org:7777/udp/239.37.0.224:5540
-http://frp.jl.cloudns.org:7777/udp/239.37.0.235:5540
-http://frp.jl.cloudns.org:7777/udp/239.37.0.55:5540
-http://frp.jl.cloudns.org:7777/udp/239.37.0.8:5540
-http://frp.jl.cloudns.org:7777/udp/239.37.1.10:5540
-http://frp.jl.cloudns.org:7777/udp/239.37.1.8:5540
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺吉林电信",CCTV-2综合
-http://frp.jl.cloudns.org:7777/udp/239.37.0.3:5540
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="📺吉林电信",CCTV-3综艺
-http://frp.jl.cloudns.org:7777/udp/239.37.0.231:5540
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="📺吉林电信",CCTV-4中文国际
-http://frp.jl.cloudns.org:7777/udp/239.37.1.25:5540
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺吉林电信",CCTV-5体育
-http://frp.jl.cloudns.org:7777/udp/239.37.0.232:5540
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺吉林电信",CCTV-6电影
-http://frp.jl.cloudns.org:7777/udp/239.37.0.233:5540
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="📺吉林电信",CCTV-7国防军事
-http://frp.jl.cloudns.org:7777/udp/239.37.1.20:5540
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="📺吉林电信",CCTV-8电视剧
-http://frp.jl.cloudns.org:7777/udp/239.37.0.234:5540
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="📺吉林电信",CCTV-9纪录
-http://frp.jl.cloudns.org:7777/udp/239.37.0.1:5540
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="📺吉林电信",CCTV-10科教
-http://frp.jl.cloudns.org:7777/udp/239.37.0.7:5540
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="📺吉林电信",CCTV-11戏曲
-http://frp.jl.cloudns.org:7777/udp/239.37.1.26:5540
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="📺吉林电信",CCTV-12社会与法
-http://frp.jl.cloudns.org:7777/udp/239.37.0.6:5540
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="📺吉林电信",CCTV-13新闻
-http://frp.jl.cloudns.org:7777/udp/239.37.1.27:5540
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="📺吉林电信",CCTV-14少儿
-http://frp.jl.cloudns.org:7777/udp/239.37.0.5:5540
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="📺吉林电信",CCTV-15音乐
-http://frp.jl.cloudns.org:7777/udp/239.37.1.28:5540
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="📺吉林电信",CCTV-16奥林匹克
-http://frp.jl.cloudns.org:7777/udp/239.37.1.21:5540
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺吉林电信",CCTV-17农业农村
-http://frp.jl.cloudns.org:7777/udp/239.37.0.2:5540
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="📺吉林电信",CCTV-4K超高清
-http://frp.jl.cloudns.org:7777/udp/239.37.0.34:5540
-#EXTINF:-1 tvg-name="CCTV16_4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="📺吉林电信",CCTV-16_4K
-http://frp.jl.cloudns.org:7777/udp/239.37.1.22:5540
-#EXTINF:-1 tvg-name="JILINWS" tvg-logo="https://live.fanmingming.cn/tv/Jilin.png" group-title="📺吉林电信",吉林卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.111:5540
-#EXTINF:-1 tvg-name="BTV1" tvg-logo="https://live.fanmingming.cn/tv/Beijing.png" group-title="📺吉林电信",北京卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.9:5540
-#EXTINF:-1 tvg-name="DFWS" tvg-logo="https://live.fanmingming.cn/tv/Dongfang.png" group-title="📺吉林电信",东方卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.123:5540
-#EXTINF:-1 tvg-name="HUNANWS" tvg-logo="https://live.fanmingming.cn/tv/Hunan.png" group-title="📺吉林电信",湖南卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.10:5540
-#EXTINF:-1 tvg-name="ZHEJIANGWS" tvg-logo="https://live.fanmingming.cn/tv/Zhejiang.png" group-title="📺吉林电信",浙江卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.153:5540
-#EXTINF:-1 tvg-name="JIANGSUWS" tvg-logo="https://live.fanmingming.cn/tv/Jiangsu.png" group-title="📺吉林电信",江苏卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.112:5540
-#EXTINF:-1 tvg-name="SHANDONGWS" tvg-logo="https://live.fanmingming.cn/tv/Shandong.png" group-title="📺吉林电信",山东卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.15:5540
-#EXTINF:-1 tvg-name="TIANJINWS" tvg-logo="https://live.fanmingming.cn/tv/Tianjin.png" group-title="📺吉林电信",天津卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.4:5540
-#EXTINF:-1 tvg-name="CHONGQINGWS" tvg-logo="https://live.fanmingming.cn/tv/Chongqing.png" group-title="📺吉林电信",重庆卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.158:5540
-#EXTINF:-1 tvg-name="SICHUANWS" tvg-logo="https://live.fanmingming.cn/tv/Sichuan.png" group-title="📺吉林电信",四川卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.151:5540
-#EXTINF:-1 tvg-name="GUANGDONGWS" tvg-logo="https://live.fanmingming.cn/tv/Guangdong.png" group-title="📺吉林电信",广东卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.12:5540
-#EXTINF:-1 tvg-name="SHENZHENWS" tvg-logo="https://live.fanmingming.cn/tv/Shenzhen.png" group-title="📺吉林电信",深圳卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.14:5540
-#EXTINF:-1 tvg-name="HEILONGJIANGWS" tvg-logo="https://live.fanmingming.cn/tv/Heilongjiang.png" group-title="📺吉林电信",黑龙江卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.13:5540
-#EXTINF:-1 tvg-name="LIAONINGWS" tvg-logo="https://live.fanmingming.cn/tv/Liaoning.png" group-title="📺吉林电信",辽宁卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.160:5540
-#EXTINF:-1 tvg-name="ANHUIWS" tvg-logo="https://live.fanmingming.cn/tv/Anhui.png" group-title="📺吉林电信",安徽卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.159:5540
-#EXTINF:-1 tvg-name="HUBEIWS" tvg-logo="https://live.fanmingming.cn/tv/Hubei.png" group-title="📺吉林电信",湖北卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.16:5540
-#EXTINF:-1 tvg-name="DONNANWS" tvg-logo="https://live.fanmingming.cn/tv/Dongnan.png" group-title="📺吉林电信",东南卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.124:5540
-#EXTINF:-1 tvg-name="HAINANWS" tvg-logo="https://live.fanmingming.cn/tv/Hainan.png" group-title="📺吉林电信",海南卫视
-http://frp.jl.cloudns.org:7777/udp/239.37.0.102:5540
 
