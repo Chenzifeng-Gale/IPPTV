@@ -82,8 +82,6 @@ http://171.118.99.79:9003/hls/36/index.m3u8
 http://171.118.99.79:9003/hls/49/index.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",东南卫视
 http://171.118.99.79:9003/hls/24/index.m3u8
-#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://logo.catvod.com/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",厦门卫视
-http://42.238.162.0:8863/live1504.m3u8?token=7375646f90505bd94273799408544d768948d9be
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",广东卫视
 http://171.118.99.79:9003/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",深圳卫视
@@ -92,8 +90,6 @@ http://171.118.99.79:9003/hls/43/index.m3u8
 http://171.118.99.79:9003/hls/27/index.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",云南卫视
 http://171.118.99.79:9003/hls/48/index.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",贵州卫视
-http://42.238.162.0:8849/live1390.m3u8?token=7375646f90505bd94273799408544d768948d9be
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",四川卫视
 http://171.118.99.79:9003/hls/44/index.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",新疆卫视
