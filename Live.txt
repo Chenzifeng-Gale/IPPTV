@@ -1,109 +1,109 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺全网通央视",CCTV-1综合
-http://42.238.162.0:8886/cctv1.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺全网通央视",CCTV-2财经
-http://42.238.162.0:8801/cctv2.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="📺全网通央视",CCTV-3综艺
-http://42.238.162.0:8802/cctv3.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="📺全网通央视",CCTV-4中文国际
-http://42.238.162.0:8803/cctv4.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺全网通央视",CCTV-5体育
-http://42.238.162.0:8804/cctv5.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5%2B.png" group-title="📺全网通央视",CCTV5+
-http://42.238.162.0:8875/live1675.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/6/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺全网通央视",CCTV-6电影
-http://42.238.162.0:8805/cctv6.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/7/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="📺全网通央视",CCTV-7国防军事
-http://42.238.162.0:8806/cctv7.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/8/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="📺全网通央视",CCTV-8电视剧
-http://42.238.162.0:8807/cctv8.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="📺全网通央视",CCTV-9记录
-http://42.238.162.0:8808/cctv9.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/10/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="📺全网通央视",CCTV-10科教
-http://42.238.162.0:8809/cctv10.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/11/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="📺全网通央视",CCTV-11戏曲
-http://42.238.162.0:8810/cctv11.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/12/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="📺全网通央视",CCTV-12社会与法
-http://42.238.162.0:8811/cctv12.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/13/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="📺全网通央视",CCTV-13新闻
-http://42.238.162.0:8812/cctv13.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="📺全网通央视",CCTV-14少儿
-http://42.238.162.0:8813/cctv14.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="📺全网通央视",CCTV-15音乐
-http://42.238.162.0:8814/cctv15.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/16/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="📺全网通央视",CCTV-16奥林匹克
-http://y-ran.com.cn:35455/nptv/cctv16.m3u8
+http://171.118.99.79:9003/hls/17/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺全网通央视",CCTV-17农业农村
-http://42.238.162.0:8816/live1032.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/18/index.m3u8
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",北京卫视
-http://42.238.162.0:8840/live1300.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",东方卫视
-http://42.238.162.0:8841/live1310.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/23/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="📺全网通卫视",江苏卫视
+http://171.118.99.79:9003/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",天津卫视
-http://42.238.162.0:8842/live1320.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/45/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",重庆卫视
-http://42.238.162.0:8853/live1430.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",黑龙江卫视
-http://42.238.162.0:8866/live1564.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",吉林卫视
-http://42.238.162.0:8864/live1544.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",辽宁卫视
-http://42.238.162.0:8865/live1554.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://logo.catvod.com/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",内蒙古卫视
-http://42.238.162.0:8862/live1534.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",宁夏卫视
-http://42.238.162.0:8858/live1481.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/39/index.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",甘肃卫视
-http://42.238.162.0:8857/live1471.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",青海卫视
-http://42.238.162.0:8859/live1491.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",陕西卫视
-http://42.238.162.0:8856/live1461.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/42/index.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",河北卫视
-http://42.238.162.0:8855/live1441.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/29/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",山西卫视
-http://42.238.162.0:8854/live1451.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/19/index.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",山东卫视
-http://42.238.162.0:8844/live1340.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",安徽卫视
-http://42.238.162.0:8845/live1350.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",河南卫视
-http://42.238.162.0:8868/live1625.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",湖北卫视
-http://42.238.162.0:8838/live1280.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",湖南卫视
-http://42.238.162.0:8837/live1270.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",江西卫视
-http://42.238.162.0:8846/live1360.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",浙江卫视
-http://42.238.162.0:8839/live1290.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/49/index.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",东南卫视
-http://42.238.162.0:8850/live1400.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://logo.catvod.com/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",厦门卫视
 http://42.238.162.0:8863/live1504.m3u8?token=7375646f90505bd94273799408544d768948d9be
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",广东卫视
-http://42.238.162.0:8851/live1410.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",深圳卫视
-http://42.238.162.0:8843/live1330.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/43/index.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",广西卫视
-http://42.238.162.0:8852/live1420.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/27/index.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",云南卫视
-http://42.238.162.0:8848/live1380.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/48/index.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",贵州卫视
 http://42.238.162.0:8849/live1390.m3u8?token=7375646f90505bd94273799408544d768948d9be
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",四川卫视
-http://42.238.162.0:8847/live1370.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/44/index.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",新疆卫视
-http://42.238.162.0:8867/live1574.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",兵团卫视
-http://42.238.162.0:8874/live1665.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/50/index.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://logo.catvod.com/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",西藏卫视
-http://42.238.162.0:8870/live1604.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/46/index.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",海南卫视
-http://42.238.162.0:8860/live1514.m3u8?token=7375646f90505bd94273799408544d768948d9be
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://logo.catvod.com/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="📺全网通卫视",三沙卫视
-http://42.238.162.0:8861/live1524.m3u8?token=7375646f90505bd94273799408544d768948d9be
+http://171.118.99.79:9003/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="亮剑" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/亮剑.png" group-title="📺全网通卫视",亮剑
 http://cfss.cc/cdn/hy/30080238.m3u8
 
