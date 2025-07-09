@@ -672,4 +672,5 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="📺港澳台",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="📺港澳台",中天新闻
+video://https://www.iptv345.com/?act=play&token=91838be69ca0cea13673aa0fd43dd586&tid=gt&id=43
