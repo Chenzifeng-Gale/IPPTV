@@ -16,9 +16,9 @@ http://113.68.139.107:5000/bst/cctv6hd@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="📺全网通央视",CCTV-7国防军事
 http://113.68.139.107:5000/bst/cctv7hd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="📺全网通央视",CCTV-8电视剧
-http://113.68.139.107:5000/bst/cctv9hd4mc@4000000.m3u8
+http://113.68.139.107:5000/bst/cctv8hd@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="📺全网通央视",CCTV-9记录
-http://171.118.99.79:9003/hls/10/index.m3u8
+http://113.68.139.107:5000/bst/cctv9hd4mc@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="📺全网通央视",CCTV-10科教
 http://113.68.139.107:5000/bst/cctv10hd@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="📺全网通央视",CCTV-11戏曲
