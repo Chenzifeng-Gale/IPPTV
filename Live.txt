@@ -108,37 +108,37 @@ http://cfss.cc/cdn/hy/30080238.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺IPTV央视",CCTV-1
-http://110.40.44.132:45554/bst/cctv1hd@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺IPTV央视",CCTV-2
-http://110.40.44.132:45554/bst/cctv2hd8m@8000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="📺IPTV央视",CCTV-3
-http://110.40.44.132:45554/bst/cctv3hd@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="📺IPTV央视",CCTV-4
-http://110.40.44.132:45554/bst/cctv4hd4m@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺IPTV央视",CCTV-5
-http://110.40.44.132:45554/bst/cctv5hdhai@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="📺IPTV央视",CCTV5+
 http://110.40.44.132:45554/bst/cctv5phd@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺IPTV央视",CCTV-6
-http://110.40.44.132:45554/bst/cctv6hd@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="📺IPTV央视",CCTV-7
-http://110.40.44.132:45554/bst/cctv7hd4m@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="📺IPTV央视",CCTV-8
-http://110.40.44.132:45554/bst/cctv8hd@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="📺IPTV央视",CCTV-9
-http://110.40.44.132:45554/bst/cctv9hd4mc@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="📺IPTV央视",CCTV-10
-http://110.40.44.132:45554/bst/cctv10hd@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="📺IPTV央视",CCTV-11
-http://110.40.44.132:45554/bst/cctv11hd4m@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="📺IPTV央视",CCTV-12
-http://110.40.44.132:45554/bst/cctv12hd4m@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="📺IPTV央视",CCTV-13
-http://110.40.44.132:45554/bst/cctv13hd4m@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="📺IPTV央视",CCTV-14
-http://110.40.44.132:45554/bst/cctvsehd@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="📺IPTV央视",CCTV-15
-http://110.40.44.132:45554/bst/cctvyyhd4m@4000000.m3u8
+http://183.24.62.163:44443/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="📺IPTV央视",CCTV-16
 http://110.40.44.132:45554/bst/cctv16hd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺IPTV央视",CCTV-17
