@@ -202,7 +202,7 @@ http://219.139.231.165:34567/bst/shanxiws@1300000.m3u8
 http://219.139.231.165:34567/bst/sxws@1300000.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="📺IPTV卫视",新疆卫视
 http://219.139.231.165:34567/bst/xjws@1300000.m3u8
-#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://logo.catvod.com/安多卫视.png" group-title="📺全网通卫视",安多卫视
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://logo.catvod.com/安多卫视.png" group-title="📺IPTV卫视",安多卫视
 http://113.67.99.161:5000/bst/adws2d5m@2500000.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="📺IPTV卫视",西藏卫视
 http://113.67.99.161:5000/bst/xzws@2500000.m3u8
