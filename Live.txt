@@ -443,7 +443,7 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="📺港澳台",无线新闻
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻.png" group-title="📺港澳台",TVBS新闻
-http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
+http://api.mytv666.top/api/hk.php?id=6433326131333730353865386539346239623032306533346562653234623365267469643d74762669643d3938
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png" group-title="📺港澳台",TVBS
 http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="📺港澳台",凤凰中文
