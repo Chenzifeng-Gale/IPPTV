@@ -510,7 +510,7 @@ webview://https://yangshipin.cn/tv/home?pid=600190406
 
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
-http://api.mytv666.top/api/hk.php?id=3262353734373966643964356430363336303339363333336436636262353133267469643d74762669643d3539
+http://api.mytv666.top/api/hk.php?id=6266346662396565336462643964373837326266373730326236353237383536267469643d74762669643d313132 
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="📺港澳台",中天新闻
 http://api.mytv666.top/api/hk.php?id=3639303839636238623433393637353530386234626331346161646239336166267469643d74762669643d3439 
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://logo.catvod.com/三立新闻.png" group-title="📺港澳台",三立新闻
