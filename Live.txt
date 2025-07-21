@@ -215,7 +215,7 @@ http://183.24.62.163:44443/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="📺IPTV卫视",青海卫视
 http://183.24.62.163:44443/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺山西电信",CCTV1
 http://123.175.209.195:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺山西电信",CCTV2
