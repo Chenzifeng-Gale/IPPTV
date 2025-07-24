@@ -253,71 +253,71 @@ http://myhome.yewanhuyu.cn:8097/mgtv/673168256.m3u8
 
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="📺咪咕卫视",北京卫视
-http://180.105.65.243:55555/nptv/beijing.m3u8
+http://27.18.225.28:34567/nptv/beijing.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="📺咪咕卫视",湖南卫视
-http://180.105.65.243:55555/nptv/hunan.m3u8
+http://27.18.225.28:34567/nptv/hunan.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="📺咪咕卫视",江苏卫视
-http://180.105.65.243:55555/nptv/jiangsu.m3u8
+http://27.18.225.28:34567/nptv/jiangsu.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="📺咪咕卫视",东方卫视
-http://180.105.65.243:55555/nptv/dongfang.m3u8
+http://27.18.225.28:34567/nptv/dongfang.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="📺咪咕卫视",浙江卫视
-http://180.105.65.243:55555/nptv/zhejiang.m3u8
+http://27.18.225.28:34567/nptv/zhejiang.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="📺咪咕卫视",湖北卫视
-http://180.105.65.243:55555/nptv/hubei.m3u8
+http://27.18.225.28:34567/nptv/hubei.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="📺咪咕卫视",天津卫视
-http://180.105.65.243:55555/nptv/tianjing.m3u8
+http://27.18.225.28:34567/nptv/tianjing.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="📺咪咕卫视",山东卫视
-http://180.105.65.243:55555/nptv/shandong.m3u8
+http://27.18.225.28:34567/nptv/shandong.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="📺咪咕卫视",辽宁卫视
-http://180.105.65.243:55555/nptv/liaoning.m3u8
+http://27.18.225.28:34567/nptv/liaoning.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="📺咪咕卫视",安徽卫视
-http://180.105.65.243:55555/nptv/anhui.m3u8
+http://27.18.225.28:34567/nptv/anhui.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="📺咪咕卫视",黑龙江卫视
-http://180.105.65.243:55555/nptv/heilongjiang.m3u8
+http://27.18.225.28:34567/nptv/heilongjiang.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/贵州卫视.png" group-title="📺咪咕卫视",贵州卫视
-http://180.105.65.243:55555/nptv/guizhou.m3u8
+http://27.18.225.28:34567/nptv/guizhou.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="📺咪咕卫视",东南卫视
-http://180.105.65.243:55555/nptv/dongnan.m3u8
+http://27.18.225.28:34567/nptv/dongnan.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="📺咪咕卫视",重庆卫视
-http://180.105.65.243:55555/nptv/chongqing.m3u8
+http://27.18.225.28:34567/nptv/chongqing.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="📺咪咕卫视",江西卫视
-http://180.105.65.243:55555/nptv/jiangxi.m3u8
+http://27.18.225.28:34567/nptv/jiangxi.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="📺咪咕卫视",广东卫视
-http://180.105.65.243:55555/nptv/guangdong.m3u8
+http://27.18.225.28:34567/nptv/guangdong.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="📺咪咕卫视",河北卫视
-http://180.105.65.243:55555/nptv/hebei.m3u8
+http://27.18.225.28:34567/nptv/hebei.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="📺咪咕卫视",深圳卫视
-http://180.105.65.243:55555/nptv/shenzheng.m3u8
+http://27.18.225.28:34567/nptv/shenzheng.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="📺咪咕卫视",吉林卫视
-http://180.105.65.243:55555/nptv/jiling.m3u8
+http://27.18.225.28:34567/nptv/jiling.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="📺咪咕卫视",河南卫视
-http://180.105.65.243:55555/nptv/henan.m3u8
+http://27.18.225.28:34567/nptv/henan.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="📺咪咕卫视",四川卫视
-http://180.105.65.243:55555/nptv/sichuan.m3u8
+http://27.18.225.28:34567/nptv/sichuan.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="📺咪咕卫视",广西卫视
-http://180.105.65.243:55555/nptv/guangxi.m3u8
+http://27.18.225.28:34567/nptv/guangxi.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/陕西卫视.png" group-title="📺咪咕卫视",陕西卫视
-http://180.105.65.243:55555/nptv/shanxiws.m3u8
+http://27.18.225.28:34567/nptv/shanxiws.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://logo.catvod.com/山西卫视.png" group-title="📺咪咕卫视",山西卫视
-http://180.105.65.243:55555/nptv/shanxi.m3u8
+http://27.18.225.28:34567/nptv/shanxi.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://logo.catvod.com/内蒙古卫视.png" group-title="📺咪咕卫视",内蒙古卫视
-http://180.105.65.243:55555/nptv/neimenggu.m3u8
+http://27.18.225.28:34567/nptv/neimenggu.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="📺咪咕卫视",青海卫视
-http://180.105.65.243:55555/nptv/qinghai.m3u8
+http://27.18.225.28:34567/nptv/qinghai.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="📺咪咕卫视",海南卫视
-http://180.105.65.243:55555/nptv/hainan.m3u8
+http://27.18.225.28:34567/nptv/hainan.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="📺咪咕卫视",宁夏卫视
-http://180.105.65.243:55555/nptv/ningxia.m3u8
+http://27.18.225.28:34567/nptv/ningxia.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://logo.catvod.com/西藏卫视.png" group-title="📺咪咕卫视",西藏卫视
-http://180.105.65.243:55555/nptv/xizang.m3u8
+http://27.18.225.28:34567/nptv/xizang.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="📺咪咕卫视",新疆卫视
-http://180.105.65.243:55555/nptv/xinjiang.m3u8
+http://27.18.225.28:34567/nptv/xinjiang.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="📺咪咕卫视",甘肃卫视
-http://180.105.65.243:55555/nptv/gansu.m3u8
+http://27.18.225.28:34567/nptv/gansu.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="📺咪咕卫视",云南卫视
-http://180.105.65.243:55555/nptv/yunnan.m3u8
+http://27.18.225.28:34567/nptv/yunnan.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="📺咪咕卫视",兵团卫视
-https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+http://27.18.225.28:34567/nptv/bintuan.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺央视频",CCTV-1 综合
