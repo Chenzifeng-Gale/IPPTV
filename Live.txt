@@ -215,37 +215,37 @@ http://183.24.62.163:44443/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=
 http://183.24.62.163:44443/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺咪咕央视",CCTV-1
-http://myhome.yewanhuyu.cn:8097/mgtv/608807420.m3u8
+http://60.187.246.97:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺咪咕央视",CCTV-2
-http://myhome.yewanhuyu.cn:8097/mgtv/631780532.m3u8
+http://60.187.246.97:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="📺咪咕央视",CCTV-3
-http://myhome.yewanhuyu.cn:8097/mgtv/624878271.m3u8
+http://60.187.246.97:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="📺咪咕央视",CCTV-4
-http://myhome.yewanhuyu.cn:8097/mgtv/631780421.m3u8
+http://60.187.246.97:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺咪咕央视",CCTV-5
-http://myhome.yewanhuyu.cn:8097/mgtv/641886683.m3u8
+http://60.187.246.97:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺咪咕央视",CCTV5+
 http://myhome.yewanhuyu.cn:8097/mgtv/641886773.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="📺咪咕央视",CCTV-6
-http://myhome.yewanhuyu.cn:8097/mgtv/624878396.m3u8
+http://60.187.246.97:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="📺咪咕央视",CCTV-7
-http://myhome.yewanhuyu.cn:8097/mgtv/673168121.m3u8
+http://60.187.246.97:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="📺咪咕央视",CCTV-8
-http://myhome.yewanhuyu.cn:8097/mgtv/624878356.m3u8
+http://60.187.246.97:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="📺咪咕央视",CCTV-9
-http://myhome.yewanhuyu.cn:8097/mgtv/673168140.m3u8
+http://60.187.246.97:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="📺咪咕央视",CCTV-10
-http://myhome.yewanhuyu.cn:8097/mgtv/624878405.m3u8
+http://60.187.246.97:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="📺咪咕央视",CCTV-11
-http://myhome.yewanhuyu.cn:8097/mgtv/667987558.m3u8
+http://60.187.246.97:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="📺咪咕央视",CCTV-12
-http://myhome.yewanhuyu.cn:8097/mgtv/673168185.m3u8
+http://60.187.246.97:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="📺咪咕央视",CCTV-13
-http://myhome.yewanhuyu.cn:8097/mgtv/608807423.m3u8
+http://60.187.246.97:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="📺咪咕央视",CCTV-14
-http://myhome.yewanhuyu.cn:8097/mgtv/624878440.m3u8
+http://60.187.246.97:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="📺咪咕央视",CCTV-15
-http://myhome.yewanhuyu.cn:8097/mgtv/673168223.m3u8
+http://60.187.246.97:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="📺咪咕央视",CCTV-16
 http://113.111.131.121:8097/nptv/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="📺咪咕央视",CCTV-17
