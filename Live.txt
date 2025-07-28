@@ -512,4 +512,4 @@ http://api.mytv666.top/api/hk.php?id=3639313932626236616366636537633734323039313
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://logo.catvod.com/香港卫视.png" group-title="📺港澳台",香港卫视
 https://edge.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="📺港澳台",翡翠台
-http://api.mytv666.top/api/hk.php?id=6133373062306330636436323766386638333930633734343164306361626637267469643d74762669643d3234
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv 
