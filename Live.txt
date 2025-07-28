@@ -485,8 +485,9 @@ webview://https://yangshipin.cn/tv/home?pid=600190406
 
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
+https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn14
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="📺港澳台",中天新闻
-http://api.mytv666.top/api/hk.php?id=3432626438356234306332353339386439363836663664633634323164393061267469643d74762669643d3939 
+http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://logo.catvod.com/三立新闻.png" group-title="📺港澳台",三立新闻
 http://t.061899.xyz/tl/js/tw.php?id=hdslxw
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://logo.catvod.com/民视新闻.png" group-title="📺港澳台",民视新闻
@@ -512,4 +513,4 @@ http://api.mytv666.top/api/hk.php?id=3639313932626236616366636537633734323039313
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://logo.catvod.com/香港卫视.png" group-title="📺港澳台",香港卫视
 https://edge.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="📺港澳台",翡翠台
-http://erp.giihgtidg.com:8080/live/jade01.m3u8
+http://api.mytv666.top/api/hk.php?id=6133373062306330636436323766386638333930633734343164306361626637267469643d74762669643d3234
