@@ -72,7 +72,7 @@ http://14.155.202.60:8181/bst/cqwshd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="📺全网通卫视",河南卫视
 http://14.155.202.60:8181/bst/henwshd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="📺全网通卫视",黑龙江卫视
-http://14.153.217.139:8181/bst/hljwshd@4000000.m3u8
+http://14.155.202.60:8181/bst/hljwshd@4000000.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="📺全网通卫视",海南卫视
 http://14.155.202.60:8181/bst/hainwshd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="📺全网通卫视",吉林卫视
