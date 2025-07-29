@@ -929,7 +929,7 @@ https://edge.163189.xyz/163189/fhhk
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv 
 
 
-📺频道,#genre#
+📺临时央卫,#genre#
 CCTV-1,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226908/index.m3u8
 CCTV-1,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221226908/index.m3u8
 CCTV-1,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8
