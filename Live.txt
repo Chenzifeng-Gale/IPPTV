@@ -678,9 +678,9 @@ http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227168/index.m3u
 http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227172/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://logo.catvod.com/三沙卫视.png" group-title="📺福建移动",三沙卫视
 http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227172/index.m3u8
-#EXTINF:-1 tvg-name="工苏卫视" tvg-logo="https://logo.catvod.com/工苏卫视.png" group-title="📺福建移动",工苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="📺福建移动",江苏卫视
 http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227160/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视 4K" tvg-logo="https://logo.catvod.com/广东卫视 4K.png" group-title="📺福建移动",广东卫视 4K
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="📺福建移动",广东卫视
 http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://logo.catvod.com/康巴卫视.png" group-title="📺福建移动",康巴卫视
 http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225856/index.m3u8
