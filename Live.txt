@@ -421,8 +421,6 @@ webview://https://yangshipin.cn/tv/home?pid=600190406
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="📺港澳台",中天新闻
 https://smart.pendy.dpdns.org/Smart.php?id=ctinews 
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://logo.catvod.com/三立新闻.png" group-title="📺港澳台",三立新闻
-http://t.061899.xyz/tl/js/tw.php?id=hdslxw
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://logo.catvod.com/民视新闻.png" group-title="📺港澳台",民视新闻
 http://api.mytv666.top/api/hk.php?id=6133333434353635663133373938343030353333343563353132326433396230267469643d74762669643d3536
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="📺港澳台",中视新闻
