@@ -418,7 +418,7 @@ webview://https://yangshipin.cn/tv/home?pid=600190406
 
 
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
-http://api.mytv666.top/api/hk.php?id=6266346662396565336462643964373837326266373730326236353237383536267469643d74762669643d313132
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="📺港澳台",中天新闻
 https://smart.pendy.dpdns.org/Smart.php?id=ctinews 
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://logo.catvod.com/三立新闻.png" group-title="📺港澳台",三立新闻
@@ -434,7 +434,7 @@ http://api.mytv666.top/api/hk.php?id=3532663033343761633136633334333932346565303
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="📺港澳台",东森新闻
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="📺港澳台",无线新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv 
+http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="📺港澳台",TVBS新闻
 http://api.mytv666.top/api/hk.php?id=6433326131333730353865386539346239623032306533346562653234623365267469643d74762669643d3938
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://logo.catvod.com/TVBS.png" group-title="📺港澳台",TVBS
