@@ -446,6 +446,37 @@ https://edge.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="📺港澳台",翡翠台
 http://api.mytv666.top/api/hk.php?id=6133373062306330636436323766386638333930633734343164306361626637267469643d74762669643d3234 
 
+金鹰采集电影之1,#genre#
+动作片-打黑,https://hd.ijycnd.com/play/Xe062L5b/index.m3u8
+动作片-尼斯警花,https://hd.ijycnd.com/play/YaOrZ4Le/index.m3u8
+动作片-钻石女王,https://hd.ijycnd.com/play/9aA51nPa/index.m3u8
+动作片-枪手,https://hd.ijycnd.com/play/1aMpZ23e/index.m3u8
+动作片-弯刀,https://hd.ijycnd.com/play/QeZJ8XRe/index.m3u8
+动作片-同盟,https://hd.ijycnd.com/play/YerwRZpa/index.m3u8
+动作片-重见天日,https://hd.ijycnd.com/play/lejlRDyb/index.m3u8
+动作片-龙卷风 1996,https://hd.ijycnd.com/play/QbY7xO9e/index.m3u8
+动作片-龙卷风 2024,https://hd.ijycnd.com/play/mep3Gm1d/index.m3u8
+动作片-复仇长官,https://hd.ijycnd.com/play/pen3BQPa/index.m3u8
+动作片-热血天使,https://hd.ijycnd.com/play/Pdy3ZOga/index.m3u8
+动作片-跨界任务,https://hd.ijycnd.com/play/Yer3jjWa/index.m3u8
+动作片-快人一步,https://hd.ijycnd.com/play/mep347Xd/index.m3u8
+动作片-大官 小官,https://hd.ijycnd.com/play/BeXWQrvd/index.m3u8
+动作片-亡命赌注,https://hd.ijycnd.com/play/YaOwNgBa/index.m3u8
+动作片-热血杀手,https://hd.ijycnd.com/play/lej3oG5a/index.m3u8
+动作片-纨绔子弟 电影版2,https://hd.ijycnd.com/play/lej3pGYa/index.m3u8
+动作片-澳门往事之猛虎过江,https://hd.ijycnd.com/play/Xe0x6XNe/index.m3u8
+动作片-沙漠袭击,https://hd.ijycnd.com/play/5eVEEZMd/index.m3u8
+动作片-醉后一拳,https://hd.ijycnd.com/play/pen3164a/index.m3u8
+动作片-殊死一搏,https://hd.ijycnd.com/play/Pdy3BkVa/index.m3u8
+动作片-哪吒·魔童归来,https://hd.ijycnd.com/play/pen3Apla/index.m3u8
+动作片-龙拳小子2,https://hd.ijycnd.com/play/Yer3WV2a/index.m3u8
+动作片-逃脱,https://hd.ijycnd.com/play/YaOw0WYa/index.m3u8
+动作片-赊刀人,https://hd.ijycnd.com/play/QeZLn98b/index.m3u8
+动作片-谈判专家,https://hd.ijycnd.com/play/YaOwDMra/index.m3u8
+动作片-死亡狩猎,https://hd.ijycnd.com/play/lej3Pxya/index.m3u8
+动作片-东哥闯东北,https://hd.ijycnd.com/play/nel3PqVd/index.m3u8
+动作片-卑劣的街头,https://hd.ijycnd.com/play/YaOw26Ya/index.m3u8
+动作片-寻龙迷棺,https://hd.ijycnd.com/play/QeZLD36b/index.m3u8
 
 
 
