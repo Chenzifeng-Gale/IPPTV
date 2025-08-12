@@ -126,7 +126,7 @@ http://cfss.cc/cdn/hy/30080238.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="📺全网通央视",CCTV-7国防军事
 
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="📺全网通央视",CCTV-8电视剧
-0
+
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="📺全网通央视",CCTV-9记录
 
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="📺全网通央视",CCTV-10科教
