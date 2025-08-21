@@ -7,9 +7,9 @@ http://t.061899.xyz/tl/tl.php?id=cctv2
 http://t.061899.xyz/tl/tl.php?id=cctv3
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="📺IPTV央视",CCTV-4
 http://t.061899.xyz/tl/tl.php?id=cctv4
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺IPTV央视",CCTV-5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺IPTV央视",CCTV-5
 http://t.061899.xyz/tl/tl.php?id=cctv5
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺IPTV央视",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="📺IPTV央视",CCTV5+
 http://t.061899.xyz/tl/tl.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="📺IPTV央视",CCTV-6
 http://t.061899.xyz/tl/tl.php?id=cctv6
