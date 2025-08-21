@@ -531,33 +531,33 @@ http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
-http://api.mytv666.top/api/hk.php?id=3262353734373966643964356430363336303339363333336436636262353133267469643d74762669643d3539
+http://t.061899.xyz/tl/js/js.php?id=hyxwt
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="📺港澳台",中天新闻
-http://api.mytv666.top/api/hk.php?id=3432626438356234306332353339386439363836663664633634323164393061267469643d74762669643d3939
+http://t.061899.xyz/tl/js/js.php?id=ztxwt
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://logo.catvod.com/民视新闻.png" group-title="📺港澳台",民视新闻
-http://api.mytv666.top/api/hk.php?id=6133333434353635663133373938343030353333343563353132326433396230267469643d74762669643d3536
+http://bxtv.3a.ink/api.php?id=msxw 
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="📺港澳台",中视新闻
-http://api.mytv666.top/api/hk.php?id=3935653434333461353033393966666364363031303466346131373436383437267469643d74762669643d313034 
+http://bxtv.3a.ink/api.php?id=zsxw 
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://logo.catvod.com/华视新闻.png" group-title="📺港澳台",华视新闻
-http://api.mytv666.top/api/hk.php?id=6336363138633563363661326531343237616265653233303539356532363065267469643d74762669643d3537
+http://bxtv.3a.ink/api.php?id=huashi
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://logo.catvod.com/台视新闻.png" group-title="📺港澳台",台视新闻
-http://api.mytv666.top/api/hk.php?id=3532663033343761633136633334333932346565303765616636633239323362267469643d74762669643d3533
+http://bxtv.3a.ink/api.php?id=tsxw
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="📺港澳台",东森新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
+http://t.061899.xyz/tl/js/js.php?id=dsxwt
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="📺港澳台",无线新闻
-http://api.mytv666.top/api/hk.php?id=3437643561316430306564303532666566613235653961373961303464386662267469643d74762669643d3235 
+http://j.s.bkpcp.top/js/wxxw
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="📺港澳台",TVBS新闻
-http://api.mytv666.top/api/hk.php?id=6433326131333730353865386539346239623032306533346562653234623365267469643d74762669643d3938
+http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://logo.catvod.com/TVBS.png" group-title="📺港澳台",TVBS
 http://api.mytv666.top/api/hk.php?id=6338353765393031313964363830396232336564343339356139653361633532267469643d74762669643d3635 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="📺港澳台",凤凰中文
-http://m.061899.xyz/mg/fhzw 
+http://j.s.bkpcp.top/js/fhzw 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="📺港澳台",凤凰资讯
-http://m.061899.xyz/mg/fhzx
+http://j.s.bkpcp.top/js/fhzx
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://logo.catvod.com/香港卫视.png" group-title="📺港澳台",香港卫视
-http://m.061899.xyz/mg/fhhk
+http://j.s.bkpcp.top/js/fhxg 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="📺港澳台",翡翠台
-http://api.mytv666.top/api/hk.php?id=6133373062306330636436323766386638333930633734343164306361626637267469643d74762669643d3234 
+http://j.s.bkpcp.top/js/fct
 
 
 
