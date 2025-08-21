@@ -548,8 +548,8 @@ http://t.061899.xyz/tl/js/js.php?id=dsxwt
 http://j.s.bkpcp.top/js/wxxw
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="📺港澳台",TVBS新闻
 http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://logo.catvod.com/TVBS.png" group-title="📺港澳台",TVBS
-http://api.mytv666.top/api/hk.php?id=6338353765393031313964363830396232336564343339356139653361633532267469643d74762669643d3635 
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://logo.catvod.com/TVBS.png" group-title="📺港澳台",TVBSHD
+http://t.061899.xyz/tl/js/js.php?id=tvbshd
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="📺港澳台",凤凰中文
 http://j.s.bkpcp.top/js/fhzw 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="📺港澳台",凤凰资讯
