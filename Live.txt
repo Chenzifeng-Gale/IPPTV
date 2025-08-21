@@ -117,7 +117,7 @@ http://m.061899.xyz/mg/cctv3
 http://m.061899.xyz/mg/cctv4
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺全网通央视",CCTV-5体育
 http://m.061899.xyz/mg/cctv5
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺全网通央视",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="📺全网通央视",CCTV5+
 http://m.061899.xyz/mg/cctv5p
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="📺全网通央视",CCTV-6电影
 http://m.061899.xyz/mg/cctv6
@@ -226,7 +226,7 @@ http://go.bkpcp.top/mg/cctv3
 http://go.bkpcp.top/mg/cctv4
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺咪咕央视",CCTV-5
 http://go.bkpcp.top/mg/cctv5
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺咪咕央视",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="📺咪咕央视",CCTV5+
 http://go.bkpcp.top/mg/cctv5p
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="📺咪咕央视",CCTV-6
 http://go.bkpcp.top/mg/cctv6
