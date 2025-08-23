@@ -739,19 +739,19 @@ http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010108/1.m3u8?
 
 
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
-http://t.061899.xyz/tl/js/js.php?id=hyxwt
+http://iptv.4666888.xyz/iptv.php?id=20176
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="📺港澳台",中天新闻
-http://t.061899.xyz/tl/js/js.php?id=ztxwt
+http://pullsstx.peiyou.eaydu.com/live/KNxo2R9Kd0QWdsDuYnX84iZanamxeIGuZ1rGHgVlSPqkHm8y1E.flv
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://logo.catvod.com/民视新闻.png" group-title="📺港澳台",民视新闻
-http://t.061899.xyz/tl/js/js.php?id=hdms
+http://iptv.4666888.xyz/iptv.php?id=20177
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="📺港澳台",中视新闻
-http://t.061899.xyz/tl/js/js.php?id=hdzs 
+
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://logo.catvod.com/华视新闻.png" group-title="📺港澳台",华视新闻
-http://t.061899.xyz/tl/js/js.php?id=hdhs
+
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://logo.catvod.com/台视新闻.png" group-title="📺港澳台",台视新闻
-http://t.061899.xyz/tl/js/js.php?id=ts 
+
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="📺港澳台",东森新闻
-http://t.061899.xyz/tl/js/js.php?id=dsxwt
+http://iptv.4666888.xyz/iptv.php?id=20174
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="📺港澳台",无线新闻
 http://j.s.bkpcp.top/js/wxxw
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="📺港澳台",TVBS新闻
