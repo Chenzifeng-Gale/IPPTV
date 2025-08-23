@@ -9,7 +9,7 @@ http://t.061899.xyz/tl/tl.php?id=cctv3
 http://t.061899.xyz/tl/tl.php?id=cctv4
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺IPTV央视",CCTV-5
 http://t.061899.xyz/tl/tl.php?id=cctv5
-#EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺IPTV央视",cctv5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺IPTV央视",cctv5+
 http://t.061899.xyz/tl/tl.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="📺IPTV央视",CCTV-6
 http://t.061899.xyz/tl/tl.php?id=cctv6
@@ -406,7 +406,7 @@ webview://https://yangshipin.cn/tv/home?pid=600001800
 webview://https://yangshipin.cn/tv/home?pid=600001814
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺央视频",CCTV-5 体育
 webview://https://yangshipin.cn/tv/home?pid=600001818
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺央视频",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="📺央视频",CCTV-5+ 体育赛事
 webview://https://yangshipin.cn/tv/home?pid=600001817
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="📺央视频",CCTV-6 电影
 webview://https://yangshipin.cn/tv/home?pid=600108442
