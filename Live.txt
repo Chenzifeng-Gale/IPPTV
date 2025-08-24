@@ -192,7 +192,7 @@ http://t.061899.xyz/tl/tl.php?id=lnws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="📺全网通卫视",深圳卫视
 http://m.061899.xyz/mg/szws
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="📺全网通卫视",云南卫视
-http://t.061899.xyz/tl/tl.php?id=gsws
+http://t.061899.xyz/tl/tl.php?id=ynws
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="📺全网通卫视",四川卫视
 http://m.061899.xyz/mg/scws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://logo.catvod.com/山西卫视.png" group-title="📺全网通卫视",山西卫视
