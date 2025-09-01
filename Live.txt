@@ -27,6 +27,7 @@ http://123.55.237.32:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 http://123.55.237.32:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="📺IPTV央视",CCTV-13
 http://jackgao.top:35455/douyin/547977714661
+http://jackgao.top:35455/douyin/870887192950
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="📺IPTV央视",CCTV-14
 http://123.55.237.32:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="📺IPTV央视",CCTV-15
