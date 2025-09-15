@@ -479,10 +479,10 @@ webview://https://yangshipin.cn/tv/home?pid=600190406
 
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
 http://iptv.4666888.xyz/iptv.php?id=20176
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻台.png" group-title="📺港澳台",中天新闻
+http://iptv.4666888.xyz/iptv2.php?id=141
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻台.png" group-title="📺港澳台",中天新闻台
 http://iptv.4666888.xyz/iptv2.php?id=142
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="📺港澳台",中天新闻
-http://iptv.4666888.xyz/iptv2.php?id=141
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://logo.catvod.com/民视新闻.png" group-title="📺港澳台",民视新闻
 http://iptv.4666888.xyz/iptv.php?id=20177
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://logo.catvod.com/三立新闻.png" group-title="📺港澳台",三立新闻
