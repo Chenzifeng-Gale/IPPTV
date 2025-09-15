@@ -495,9 +495,9 @@ http://iptv.4666888.xyz/iptv.php?id=20178
 http://iptv.4666888.xyz/iptv.php?id=20172
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="📺港澳台",东森新闻
 http://iptv.4666888.xyz/iptv.php?id=20174
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="📺港澳台",TVBS新闻
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://logo.catvod.com/TVBS新闻台.png" group-title="📺港澳台",TVBS新闻台
 http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://logo.catvod.com/TVBS.png" group-title="📺港澳台",TVBSHD
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://logo.catvod.com/TVBS.png" group-title="📺港澳台",TVBS
 http://t.061899.xyz/tl/js/js.php?id=tvbshd
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="📺港澳台",无线新闻
 http://iptv.4666888.xyz/iptv.php?id=20069
