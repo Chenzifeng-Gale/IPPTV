@@ -507,7 +507,7 @@ http://iptv.4666888.xyz/iptv2.php?id=89
 http://iptv.4666888.xyz/iptv.php?id=20063
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="📺港澳台",凤凰资讯
 http://iptv.4666888.xyz/iptv.php?id=20064
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="📺港澳台",香港卫视
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="📺港澳台",凤凰香港
 http://iptv.4666888.xyz/iptv.php?id=20065
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="📺港澳台",翡翠台
 http://iptv.4666888.xyz/iptv.php?id=20066
