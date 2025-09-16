@@ -540,7 +540,6 @@ http://115.224.102.143:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="📺绍兴电信",云南卫视
 http://115.224.102.143:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺广东电信",CCTV1-综合
 http://113.90.246.76:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺广东电信",CCTV2-财经
