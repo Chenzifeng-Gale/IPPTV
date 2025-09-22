@@ -541,39 +541,39 @@ webview://https://yangshipin.cn/tv/home?pid=600190406
 
 
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
-http://iptv.4666888.xyz/iptv.php?id=20176
+
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="📺港澳台",中天新闻
-http://iptv.4666888.xyz/iptv2.php?id=141
+
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://logo.catvod.com/中天新闻台.png" group-title="📺港澳台",中天新闻台
-http://iptv.4666888.xyz/iptv2.php?id=142
+
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://logo.catvod.com/民视新闻.png" group-title="📺港澳台",民视新闻
-http://iptv.4666888.xyz/iptv.php?id=20177
+
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://logo.catvod.com/三立新闻.png" group-title="📺港澳台",三立新闻
-http://iptv.4666888.xyz/iptv.php?id=20169
+
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="📺港澳台",中视新闻
-http://iptv.4666888.xyz/iptv.php?id=20171 
+
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://logo.catvod.com/年代新闻.png" group-title="📺港澳台",年代新闻
-http://iptv.4666888.xyz/iptv.php?id=20178 
+
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://logo.catvod.com/台视新闻.png" group-title="📺港澳台",台视新闻
-http://iptv.4666888.xyz/iptv.php?id=20172
+
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="📺港澳台",东森新闻
-http://iptv.4666888.xyz/iptv.php?id=20174
+
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://logo.catvod.com/TVBS新闻台.png" group-title="📺港澳台",TVBS新闻台
-http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
+
 #EXTINF:-1 tvg-name="TVBSHD" tvg-logo="https://logo.catvod.com/TVBSHD.png" group-title="📺港澳台",TVBSHD
-http://iptv.4666888.xyz/iptv.php?id=20188
+
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="📺港澳台",无线新闻
-http://iptv.4666888.xyz/iptv.php?id=20069
+
 #EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://logo.catvod.com/有线新闻.png" group-title="📺港澳台",有线新闻
-http://iptv.4666888.xyz/iptv2.php?id=89
+
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="📺港澳台",凤凰中文
-http://iptv.4666888.xyz/iptv.php?id=20063
+
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="📺港澳台",凤凰资讯
-http://iptv.4666888.xyz/iptv.php?id=20064
+
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="📺港澳台",凤凰香港
-http://iptv.4666888.xyz/iptv.php?id=20065
+
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="📺港澳台",翡翠台
-http://iptv.4666888.xyz/iptv.php?id=20066
+
 
 
 
