@@ -423,6 +423,39 @@ http://49.70.189.190:60001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="📺江苏电信",CCTV15-音乐
 http://49.70.189.190:60001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺浙江电信",CCTV1-综合
+http://183.145.113.33:5003/live1001.m3u8?token=7375646f3daa4219c6a7bd331a86ebf778fe0760&z=1151
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺浙江电信",CCTV2-财经
+http://183.145.113.33:5003/live1002.m3u8?token=7375646f3daa4219c6a7bd331a86ebf778fe0760&z=1151
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="📺浙江电信",CCTV3-综艺
+http://183.145.113.33:5003/live1004.m3u8?token=7375646f3daa4219c6a7bd331a86ebf778fe0760&z=1151
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="📺浙江电信",CCTV4-国际
+http://183.145.113.33:5003/live1005.m3u8?token=7375646f3daa4219c6a7bd331a86ebf778fe0760&z=1151
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺浙江电信",CCTV5-体育
+http://183.145.113.33:5003/live1006.m3u8?token=7375646f3daa4219c6a7bd331a86ebf778fe0760&z=1151
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺IPTV央卫",CCTV5+
+http://183.145.113.33:5003/live1017.m3u8?token=7375646f3daa4219c6a7bd331a86ebf778fe0760&z=1151
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="📺浙江电信",CCTV6-电影
+http://183.145.113.33:5003/live1019.m3u8?token=7375646f3daa4219c6a7bd331a86ebf778fe0760&z=1151
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="📺浙江电信",CCTV7-军农
+http://183.145.113.33:5003/live1007.m3u8?token=7375646f3daa4219c6a7bd331a86ebf778fe0760&z=1151
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="📺浙江电信",CCTV8-电视剧
+http://183.145.113.33:5003/live1012.m3u8?token=7375646f3daa4219c6a7bd331a86ebf778fe0760&z=1151
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="📺浙江电信",CCTV9-纪录
+http://183.145.113.33:5003/live1033.m3u8?token=7375646f3daa4219c6a7bd331a86ebf778fe0760&z=1151
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="📺浙江电信",CCTV10-科教
+http://183.145.113.33:5003/live1011.m3u8?token=7375646f3daa4219c6a7bd331a86ebf778fe0760&z=1151
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="📺浙江电信",CCTV11-戏曲
+http://49.70.189.190:60001/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="📺浙江电信",CCTV12-社会与法
+http://49.70.189.190:60001/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="📺浙江电信",CCTV13-新闻
+http://183.145.113.33:5003/live1014.m3u8?token=7375646f492d68fd1cd61fed7be10341fc83ea72&z=1151
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="📺浙江电信",CCTV14-少儿
+http://183.145.113.33:5003/live1015.m3u8?token=7375646f492d68fd1cd61fed7be10341fc83ea72&z=1151
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="📺浙江电信",CCTV15-音乐
+http://49.70.189.190:60001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺央视频",CCTV-1综合
 webview://https://yangshipin.cn/tv/home?pid=600001859
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺央视频",CCTV-2财经
