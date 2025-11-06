@@ -535,13 +535,13 @@ http://vallest.uk/livehttpplay?channel_id=30024
 #EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://logo.catvod.com/有线新闻.png" group-title="📺港澳台",有线新闻
 http://vallest.uk/livehttpplay?channel_id=20152 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="📺港澳台",凤凰中文
-http://vallest.uk/livehttpplay?channel_id=30014 
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="📺港澳台",凤凰资讯
-http://vallest.uk/livehttpplay?channel_id=30015
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="📺港澳台",凤凰香港
-http://vallest.uk/livehttpplay?channel_id=30016
+http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="📺港澳台",翡翠台
-http://vallest.uk/livehttpplay?channel_id=20124 
+http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 
 
 #EXTINF:-1 tvg-name="亮剑之第01集" tvg-logo="https://logo.catvod.com/亮剑之第01集.png" group-title="📺亮剑全集",亮剑之第01集
