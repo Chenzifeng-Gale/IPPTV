@@ -509,25 +509,25 @@ webview://https://yangshipin.cn/tv/home?pid=600190406
 
 
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
-
+https://smt.858.qzz.io/Smart.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="📺港澳台",中天新闻
-http://tlive24.uk/livehttpplay?channel_id=20163
+https://smt.858.qzz.io/Smart.php?id=ctinews
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://logo.catvod.com/中天新闻台.png" group-title="📺港澳台",中天新闻台
 rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://logo.catvod.com/民视新闻.png" group-title="📺港澳台",民视新闻
-
+https://smt.858.qzz.io/Smart.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://logo.catvod.com/三立新闻.png" group-title="📺港澳台",三立新闻
 
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="📺港澳台",中视新闻
-
+https://smt.858.qzz.io/Smart.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://logo.catvod.com/年代新闻.png" group-title="📺港澳台",年代新闻
-
+https://smt.858.qzz.io/Smart.php?id=niandainews_twn
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://logo.catvod.com/台视新闻.png" group-title="📺港澳台",台视新闻
-
+https://smt.858.qzz.io/Smart.php?id=ttvnews_twn
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="📺港澳台",东森新闻
-
+https://smt.858.qzz.io/Smart.php?id=ettvnews
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://logo.catvod.com/TVBS新闻台.png" group-title="📺港澳台",TVBS新闻台
-
+https://smt.858.qzz.io/Smart.php?id=tvbs_n
 #EXTINF:-1 tvg-name="TVBSHD" tvg-logo="https://logo.catvod.com/TVBSHD.png" group-title="📺港澳台",TVBSHD
 
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="📺港澳台",无线新闻
