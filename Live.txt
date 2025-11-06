@@ -311,6 +311,105 @@ https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
 http://go.bkpcp.top/mg/btws
 
 
+#EXTINF:-1 tvg-name="CCTV01" tvg-logo="https://logo.catvod.com/CCTV01.png" group-title="📺咪咕备用",CCTV-01咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV02" tvg-logo="https://logo.catvod.com/CCTV02.png" group-title="📺咪咕备用",CCTV-02咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV03" tvg-logo="https://logo.catvod.com/CCTV03.png" group-title="📺咪咕备用",CCTV-03咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV04" tvg-logo="https://logo.catvod.com/CCTV04.png" group-title="📺咪咕备用",CCTV-04咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV05" tvg-logo="https://logo.catvod.com/CCTV05.png" group-title="📺咪咕备用",CCTV-05咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺咪咕备用",CCTV-5+咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv5p
+#EXTINF:-1 tvg-name="CCTV06" tvg-logo="https://logo.catvod.com/CCTV06.png" group-title="📺咪咕备用",CCTV-06咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV07" tvg-logo="https://logo.catvod.com/CCTV07.png" group-title="📺咪咕备用",CCTV-07咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV08" tvg-logo="https://logo.catvod.com/CCTV08.png" group-title="📺咪咕备用",CCTV-08咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv8
+#EXTINF:-1 tvg-name="CCTV09" tvg-logo="https://logo.catvod.com/CCTV09.png" group-title="📺咪咕备用",CCTV-09咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="📺咪咕备用",CCTV-10咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="📺咪咕备用",CCTV-11咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="📺咪咕备用",CCTV-12咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="📺咪咕备用",CCTV-13咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="📺咪咕备用",CCTV-14咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="📺咪咕备用",CCTV-15咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="📺咪咕备用",CCTV-16咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="📺咪咕备用",CCTV-17咪咕
+http://t.061899.xyz/tl/tl.php?id=cctv17
+#EXTINF:-1 tvg-name="北京卫视咪咕" tvg-logo="https://logo.catvod.com/北京卫视咪咕.png" group-title="📺咪咕备用",北京卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=bjws
+#EXTINF:-1 tvg-name="东方卫视咪咕" tvg-logo="https://logo.catvod.com/东方卫视咪咕.png" group-title="📺咪咕备用",东方卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=dfws
+#EXTINF:-1 tvg-name="浙江卫视咪咕" tvg-logo="https://logo.catvod.com/浙江卫视咪咕.png" group-title="📺咪咕备用",浙江卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=zjws
+#EXTINF:-1 tvg-name="江苏卫视咪咕" tvg-logo="https://logo.catvod.com/江苏卫视咪咕.png" group-title="📺咪咕备用",江苏卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=jsws
+#EXTINF:-1 tvg-name="湖南卫视咪咕" tvg-logo="https://logo.catvod.com/湖南卫视咪咕.png" group-title="📺咪咕备用",湖南卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=hunws
+#EXTINF:-1 tvg-name="广东卫视咪咕" tvg-logo="https://logo.catvod.com/广东卫视咪咕.png" group-title="📺咪咕备用",广东卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=gdws
+#EXTINF:-1 tvg-name="深圳卫视咪咕" tvg-logo="https://logo.catvod.com/深圳卫视咪咕.png" group-title="📺咪咕备用",深圳卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=szws
+#EXTINF:-1 tvg-name="天津卫视咪咕" tvg-logo="https://logo.catvod.com/天津卫视咪咕.png" group-title="📺咪咕备用",天津卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=tjws
+#EXTINF:-1 tvg-name="安徽卫视咪咕" tvg-logo="https://logo.catvod.com/安徽卫视咪咕.png" group-title="📺咪咕备用",安徽卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=ahws
+#EXTINF:-1 tvg-name="山东卫视咪咕" tvg-logo="https://logo.catvod.com/山东卫视咪咕.png" group-title="📺咪咕备用",山东卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=sdws
+#EXTINF:-1 tvg-name="山西卫视咪咕" tvg-logo="https://logo.catvod.com/山西卫视咪咕.png" group-title="📺咪咕备用",山西卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=sxiws
+#EXTINF:-1 tvg-name="辽宁卫视咪咕" tvg-logo="https://logo.catvod.com/辽宁卫视咪咕.png" group-title="📺咪咕备用",辽宁卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=lnws
+#EXTINF:-1 tvg-name="河北卫视咪咕" tvg-logo="https://logo.catvod.com/河北卫视咪咕.png" group-title="📺咪咕备用",河北卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=hbws
+#EXTINF:-1 tvg-name="河南卫视咪咕" tvg-logo="https://logo.catvod.com/河南卫视咪咕.png" group-title="📺咪咕备用",河南卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=hnws
+#EXTINF:-1 tvg-name="江西卫视咪咕" tvg-logo="https://logo.catvod.com/江西卫视咪咕.png" group-title="📺咪咕备用",江西卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=jxws
+#EXTINF:-1 tvg-name="四川卫视咪咕" tvg-logo="https://logo.catvod.com/四川卫视咪咕.png" group-title="📺咪咕备用",四川卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=scws
+#EXTINF:-1 tvg-name="重庆卫视咪咕" tvg-logo="https://logo.catvod.com/重庆卫视咪咕.png" group-title="📺咪咕备用",重庆卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=cqws
+#EXTINF:-1 tvg-name="贵州卫视咪咕" tvg-logo="https://logo.catvod.com/贵州卫视咪咕.png" group-title="📺咪咕备用",贵州卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=gzws
+#EXTINF:-1 tvg-name="湖北卫视咪咕" tvg-logo="https://logo.catvod.com/湖北卫视咪咕.png" group-title="📺咪咕备用",湖北卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=hubws
+#EXTINF:-1 tvg-name="广西卫视咪咕" tvg-logo="https://logo.catvod.com/广西卫视咪咕.png" group-title="📺咪咕备用",广西卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=gxws
+#EXTINF:-1 tvg-name="东南卫视咪咕" tvg-logo="https://logo.catvod.com/东南卫视咪咕.png" group-title="📺咪咕备用",东南卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=dnws
+#EXTINF:-1 tvg-name="海南卫视咪咕" tvg-logo="https://logo.catvod.com/海南卫视咪咕.png" group-title="📺咪咕备用",海南卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=hinws
+#EXTINF:-1 tvg-name="青海卫视咪咕" tvg-logo="https://logo.catvod.com/青海卫视咪咕.png" group-title="📺咪咕备用",青海卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=qhws
+#EXTINF:-1 tvg-name="宁夏卫视咪咕" tvg-logo="https://logo.catvod.com/宁夏卫视咪咕.png" group-title="📺咪咕备用",宁夏卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=nxws
+#EXTINF:-1 tvg-name="陕西卫视咪咕" tvg-logo="https://logo.catvod.com/陕西卫视咪咕.png" group-title="📺咪咕备用",陕西卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=sxws
+#EXTINF:-1 tvg-name="甘肃卫视咪咕" tvg-logo="https://logo.catvod.com/甘肃卫视咪咕.png" group-title="📺咪咕备用",甘肃卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=gsws
+#EXTINF:-1 tvg-name="新疆卫视咪咕" tvg-logo="https://logo.catvod.com/新疆卫视咪咕.png" group-title="📺咪咕备用",新疆卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=xjws
+#EXTINF:-1 tvg-name="吉林卫视咪咕" tvg-logo="https://logo.catvod.com/吉林卫视咪咕.png" group-title="📺咪咕备用",吉林卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=jlws
+#EXTINF:-1 tvg-name="西藏卫视咪咕" tvg-logo="https://logo.catvod.com/西藏卫视咪咕.png" group-title="📺咪咕备用",西藏卫视咪咕
+http://t.061899.xyz/tl/tl.php?id=xzws
+#EXTINF:-1 tvg-name="内蒙古视咪咕" tvg-logo="https://logo.catvod.com/内蒙古视咪咕.png" group-title="📺咪咕备用",内蒙古视咪咕
+http://t.061899.xyz/tl/tl.php?id=nmgws
+#EXTINF:-1 tvg-name="黑龙江视咪咕" tvg-logo="https://logo.catvod.com/黑龙江视咪咕.png" group-title="📺咪咕备用",黑龙江视咪咕
+http://t.061899.xyz/tl/tl.php?id=hljws
+
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺央视频",CCTV-1综合
