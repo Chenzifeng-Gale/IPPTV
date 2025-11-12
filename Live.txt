@@ -517,7 +517,7 @@ http://cnlive.org/channel/41d8a09d/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://logo.catvod.com/民视新闻.png" group-title="📺港澳台",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://logo.catvod.com/三立新闻.png" group-title="📺港澳台",三立新闻
-webview://https://saileitv.com/play.html?channelId=642f20a/index.m3u8
+webview://https://saileitv.com/play.html?channelId=642f20a
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="📺港澳台",中视新闻
 http://cnlive.org/channel/428f1dfa/index.m3u8
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://logo.catvod.com/年代新闻.png" group-title="📺港澳台",年代新闻
