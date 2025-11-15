@@ -311,7 +311,7 @@ https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
 http://go.bkpcp.top/mg/btws
 
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺咪咕备用",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺咪咕4K",CCTV-1
 http://t.061899.xyz/tl/tl.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺咪咕4K",CCTV-2
 http://t.061899.xyz/tl/tl.php?id=cctv2
