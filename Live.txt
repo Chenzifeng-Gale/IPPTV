@@ -482,10 +482,7 @@ http://113.90.244.241:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 http://113.90.244.241:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺蜀小果",CCTV1
-http://120.233.178.34:2380/c3.cdn.hunancatv.com/live/CCTV1HD.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="📺蜀小果",CCTV13
-http://120.233.178.22:2380/iptv/sxg.php/CCTV-xw_4000
+
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺央视频",CCTV-1综合
