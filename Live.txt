@@ -173,7 +173,7 @@ http://m.061899.xyz/mg/gxws
 http://m.061899.xyz/mg/gzws
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="📺全网通",重庆卫视
 http://m.061899.xyz/mg/cqws 
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="📺全网通央卫",河南卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="📺全网通",河南卫视
 http://m.061899.xyz/mg/hnws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="📺全网通",黑龙江卫视
 http://m.061899.xyz/mg/hljws
