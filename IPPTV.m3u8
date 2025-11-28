@@ -660,7 +660,7 @@ http://113.90.244.241:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="📺深圳电信",重庆卫视
 http://113.90.244.241:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺广西电信",CCTV1
 http://leidayu.f3322.net:8086/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺广西电信",CCTV2
