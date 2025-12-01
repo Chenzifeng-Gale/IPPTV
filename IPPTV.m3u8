@@ -931,8 +931,7 @@ webview://https://yangshipin.cn/tv/home?pid=600190407
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="📺央视频",青海卫视
 webview://https://yangshipin.cn/tv/home?pid=600190406
 
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
-http://rihou.cc:555/tv/|寰宇新闻|
+
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="📺港澳台",寰宇新闻
 https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="📺港澳台",中天新闻
