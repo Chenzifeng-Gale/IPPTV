@@ -320,13 +320,13 @@ http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m
 http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺蜀小果",CCTV-5+
 http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV06" tvg-logo="https://logo.catvod.com/CCTV06.png" group-title="📺蜀小果",CCTV-06
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="📺蜀小果",CCTV-6
 http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV07" tvg-logo="https://logo.catvod.com/CCTV07.png" group-title="📺蜀小果",CCTV-07
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="📺蜀小果",CCTV-7
 http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV08" tvg-logo="https://logo.catvod.com/CCTV08.png" group-title="📺蜀小果",CCTV-08
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="📺蜀小果",CCTV-8
 http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
-#EXTINF:-1 tvg-name="CCTV09" tvg-logo="https://logo.catvod.com/CCTV09.png" group-title="📺蜀小果",CCTV-09
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="📺蜀小果",CCTV-9
 http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="📺蜀小果",CCTV-10
 http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8
