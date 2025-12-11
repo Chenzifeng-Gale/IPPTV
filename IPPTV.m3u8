@@ -725,11 +725,12 @@ http://rihou.cc:555/tv/[4G]民视新闻
 http://rihou.cc:555/tv/[4G]中视新闻
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://logo.catvod.com/年代新闻.png" group-title="📺港澳台",年代新闻
 
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://logo.catvod.com/台视新闻.png" group-title="📺港澳台",台视新闻
-
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="📺港澳台",澳视澳门
+http://iptv.4666888.xyz/iptv2A.php?id=41
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="📺港澳台",东森新闻
 http://rihou.cc:555/tv/[4G]东森新闻
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://logo.catvod.com/TVBS新闻台.png" group-title="📺港澳台",TVBS新闻台
+http://iptv.4666888.xyz/iptv2A.php?id=43
 http://rihou.cc:555/tv/[4G]tvbS新闻
 #EXTINF:-1 tvg-name="TVBSHD" tvg-logo="https://logo.catvod.com/TVBSHD.png" group-title="📺港澳台",TVBSHD
 http://rihou.cc:555/tv/[4G]tvbS闽南
