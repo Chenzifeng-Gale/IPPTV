@@ -722,7 +722,7 @@ http://rihou.cc:555/tv/[4G]民视新闻
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="📺港澳台",中视新闻
 http://rihou.cc:555/tv/[4G]中视新闻
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://logo.catvod.com/年代新闻.png" group-title="📺港澳台",年代新闻
-
+https://live.catvod.com/live.php?id=niandainews_twn&token=cf02c49a460de88ee29ae6eeccecdbdd28ee29f244bc7cf99e753847d8e3f6b0%3A1765431669%3AMjEwLjYxLjk3LjI0MQ%3D%3D
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="📺港澳台",澳视澳门
 http://iptv.4666888.xyz/iptv2A.php?id=41
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="📺港澳台",东森新闻
