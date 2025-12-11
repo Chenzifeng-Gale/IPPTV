@@ -5,45 +5,36 @@ http://iptv.4666888.xyz/iptv2A.php?id=7
 http://iptv.4666888.xyz/iptv2A.php?id=11
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺IPTV",CCTV-1
 https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-http://122.236.182.66:5003/live1001.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺IPTV",CCTV-2
 https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
-http://122.236.182.66:5003/live1002.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="📺IPTV",CCTV-3
 https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8 
-http://122.236.182.66:5003/live1004.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="📺IPTV",CCTV-4
 https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
-http://122.236.182.66:5003/live1005.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺IPTV",CCTV-5
 https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8 
-http://122.236.182.66:5003/live1006.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="📺IPTV",CCTV5+
-http://122.236.182.66:5003/live1017.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
+
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="📺IPTV",CCTV-6
 https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
-http://122.236.182.66:5003/live1019.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="📺IPTV",CCTV-7
 https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
-http://122.236.182.66:5003/live1007.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
+
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="📺IPTV",CCTV-8
 https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
-http://122.236.182.66:5003/live1012.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
+
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="📺IPTV",CCTV-9
-http://122.236.182.66:5003/live1033.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
+
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="📺IPTV",CCTV-10
 https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8 
-http://122.236.182.66:5003/live1011.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="📺IPTV",CCTV-11
 https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="📺IPTV",CCTV-12
 https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="📺IPTV",CCTV-13
 https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
-http://122.236.182.66:5003/live1014.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="📺IPTV",CCTV-14
 https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
-http://122.236.182.66:5003/live1015.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="📺IPTV",CCTV-15
 https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="📺IPTV",CCTV-16
@@ -594,74 +585,42 @@ https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺央视频",CCTV-1综合
 webview://https://yangshipin.cn/tv/home?pid=600001859
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺央视频",CCTV-1综合
-webview://https://tv.cctv.com/live/cctv1/
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺央视频",CCTV-2财经
 webview://https://yangshipin.cn/tv/home?pid=600001800
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺央视频",CCTV-2财经
-webview://https://tv.cctv.com/live/cctv2/
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="📺央视频",CCTV-3综艺
 webview://https://tv.cctv.com/live/cctv3/
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="📺央视频",CCTV-4中文国际
 webview://https://yangshipin.cn/tv/home?pid=600001814
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="📺央视频",CCTV-4中文国际
-webview://https://tv.cctv.com/live/cctv4/
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺央视频",CCTV-5体育
 webview://https://yangshipin.cn/tv/home?pid=600001818
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺央视频",CCTV-5体育
-webview://https://tv.cctv.com/live/cctv5/
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="📺央视频",CCTV-5+体育赛事
 webview://https://yangshipin.cn/tv/home?pid=600001817
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="📺央视频",CCTV-5+体育赛事
-webview://https://tv.cctv.com/live/cctv5plus/
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="📺央视频",CCTV-6电影
 webview://https://yangshipin.cn/tv/home?pid=600108442
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="📺央视频",CCTV-6电影
-webview://https://tv.cctv.com/live/cctv6/
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="📺央视频",CCTV-7国防军事
 webview://https://yangshipin.cn/tv/home?pid=600004092
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="📺央视频",CCTV-7国防军事
-webview://https://tv.cctv.com/live/cctv7/
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="📺央视频",CCTV-8电视剧
 webview://https://yangshipin.cn/tv/home?pid=600001803
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="📺央视频",CCTV-8电视剧
-webview://https://tv.cctv.com/live/cctv8/
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="📺央视频",CCTV-9纪录
 webview://https://yangshipin.cn/tv/home?pid=600004078
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="📺央视频",CCTV-9纪录
-webview://https://tv.cctv.com/live/cctvjilu/
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="📺央视频",CCTV-10科教
 webview://https://yangshipin.cn/tv/home?pid=600001805
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="📺央视频",CCTV-10科教
-webview://https://tv.cctv.com/live/cctv10/
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="📺央视频",CCTV-11戏曲
 webview://https://yangshipin.cn/tv/home?pid=600001806
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="📺央视频",CCTV-11戏曲
-webview://https://tv.cctv.com/live/cctv11/
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="📺央视频",CCTV-12社会与法
 webview://https://yangshipin.cn/tv/home?pid=600001807
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="📺央视频",CCTV-12社会与法
-webview://https://tv.cctv.com/live/cctv12/
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="📺央视频",CCTV-13新闻
 webview://https://yangshipin.cn/tv/home?pid=600001811
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="📺央视频",CCTV-13新闻
-webview://https://tv.cctv.com/live/cctv13/
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="📺央视频",CCTV-14少儿
 webview://https://yangshipin.cn/tv/home?pid=600001809
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="📺央视频",CCTV-14少儿
-webview://https://tv.cctv.com/live/cctvchild/
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="📺央视频",CCTV-15音乐
 webview://https://yangshipin.cn/tv/home?pid=600001815
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="📺央视频",CCTV-15音乐
-webview://https://tv.cctv.com/live/cctv15/
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="📺央视频",CCTV-16奥林匹克
 webview://https://yangshipin.cn/tv/home?pid=600098637
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="📺央视频",CCTV-16奥林匹克
 webview://https://tv.cctv.com/live/cctv16/
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="📺央视频",CCTV-17农业农村
 webview://https://yangshipin.cn/tv/home?pid=600001810
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="📺央视频",CCTV-17农业农村
-webview://https://tv.cctv.com/live/cctv17/
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="📺央视频",北京卫视
 webview://https://yangshipin.cn/tv/home?pid=600002309
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="📺央视频",江苏卫视
