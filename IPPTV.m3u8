@@ -5,34 +5,45 @@ http://iptv.4666888.xyz/iptv2A.php?id=7
 http://iptv.4666888.xyz/iptv2A.php?id=11
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺IPTV",CCTV-1
 https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+http://122.236.182.66:5003/live1001.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺IPTV",CCTV-2
 https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
+http://122.236.182.66:5003/live1002.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="📺IPTV",CCTV-3
 https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8 
+http://122.236.182.66:5003/live1004.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="📺IPTV",CCTV-4
 https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
+http://122.236.182.66:5003/live1005.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺IPTV",CCTV-5
 https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8 
+http://122.236.182.66:5003/live1006.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="📺IPTV",CCTV5+
-http://go.bkpcp.top/mg/cctv5p
+http://122.236.182.66:5003/live1017.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="📺IPTV",CCTV-6
 https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
+http://122.236.182.66:5003/live1019.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="📺IPTV",CCTV-7
 https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
+http://122.236.182.66:5003/live1007.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="📺IPTV",CCTV-8
 https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
+http://122.236.182.66:5003/live1012.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="📺IPTV",CCTV-9
-http://go.bkpcp.top/mg/cctv9
+http://122.236.182.66:5003/live1033.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="📺IPTV",CCTV-10
 https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8 
+http://122.236.182.66:5003/live1011.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="📺IPTV",CCTV-11
 https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="📺IPTV",CCTV-12
 https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="📺IPTV",CCTV-13
 https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
+http://122.236.182.66:5003/live1014.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="📺IPTV",CCTV-14
 https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
+http://122.236.182.66:5003/live1015.m3u8?token=7375646fe981a7f86213801d59ed9f23f2956b82&z=1f4e
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="📺IPTV",CCTV-15
 https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="📺IPTV",CCTV-16
