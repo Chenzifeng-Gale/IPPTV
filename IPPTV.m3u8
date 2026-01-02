@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺更新2025-12-24",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺更新2026-1-1",CCTV-1
 http://iptv.4666888.xyz/iptv2A.php?id=7
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="📺更新2025-12-24",CCTV-13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="📺更新2026-1-1",CCTV-13
 http://iptv.4666888.xyz/iptv2A.php?id=11
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺IPTV",CCTV1
