@@ -3,8 +3,6 @@
 http://iptv.4666888.xyz/iptv2A.php?id=7
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="📺更新2026-1-9",CCTV-13
 http://iptv.4666888.xyz/iptv2A.php?id=11
-#EXTINF:-1 tvg-name="亮剑" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/亮剑.png" group-title="📺更新2026-1-9",亮剑
-http://cfss.cc/cdn/hy/30080238.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺IPTV",CCTV1
 http://119.123.76.42:8086/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺IPTV",CCTV2
