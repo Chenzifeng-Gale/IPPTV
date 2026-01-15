@@ -241,8 +241,6 @@ http://rihou.cc:555/tv/[JR]CCTV-14
 http://rihou.cc:555/tv/[JR]CCTV-15
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="📺央视JR",CCTV-17
 http://rihou.cc:555/tv/[JR]CCTV-17
-#EXTINF:-1 tvg-name="CGTN-英" tvg-logo="https://logo.catvod.com/CGTN-英.png" group-title="📺央视JR",CGTN-英
-http://rihou.cc:555/tv/[JR]CGTN-英
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="📺央视JR",北京卫视
 http://rihou.cc:555/tv/[JR]北京卫视
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="📺央视JR",东方卫视
