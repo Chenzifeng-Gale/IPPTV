@@ -207,25 +207,25 @@ http://m.061899.xyz/mg/nxws
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="📺全网通",青海卫视
 http://m.061899.xyz/mg/qhws
 
-#EXTINF:-1 tvg-name="CCTV01" tvg-logo="https://logo.catvod.com/CCTV01.png" group-title="📺央视JR",CCTV-01
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺央视JR",CCTV-1
 http://rihou.cc:555/tv/[JR]CCTV-01
-#EXTINF:-1 tvg-name="CCTV02" tvg-logo="https://logo.catvod.com/CCTV02.png" group-title="📺央视JR",CCTV-02
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺央视JR",CCTV-2
 http://rihou.cc:555/tv/[JR]CCTV-02
-#EXTINF:-1 tvg-name="CCTV03" tvg-logo="https://logo.catvod.com/CCTV03.png" group-title="📺央视JR",CCTV-03
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="📺央视JR",CCTV-3
 http://rihou.cc:555/tv/[JR]CCTV-03
-#EXTINF:-1 tvg-name="CCTV04" tvg-logo="https://logo.catvod.com/CCTV04.png" group-title="📺央视JR",CCTV-04
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="📺央视JR",CCTV-4
 http://rihou.cc:555/tv/[JR]CCTV-04
-#EXTINF:-1 tvg-name="CCTV05" tvg-logo="https://logo.catvod.com/CCTV05.png" group-title="📺央视JR",CCTV-05
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺央视JR",CCTV-5
 http://rihou.cc:555/tv/[JR]CCTV-05
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="📺央视JR",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="📺央视JR",CCTV-5+
 http://rihou.cc:555/tv/[JR]CCTV-5p
-#EXTINF:-1 tvg-name="CCTV06" tvg-logo="https://logo.catvod.com/CCTV06.png" group-title="📺央视JR",CCTV-06
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="📺央视JR",CCTV-6
 http://rihou.cc:555/tv/[JR]CCTV-06
-#EXTINF:-1 tvg-name="CCTV07" tvg-logo="https://logo.catvod.com/CCTV07.png" group-title="📺央视JR",CCTV-07
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="📺央视JR",CCTV-7
 http://rihou.cc:555/tv/[JR]CCTV-07
-#EXTINF:-1 tvg-name="CCTV08" tvg-logo="https://logo.catvod.com/CCTV08.png" group-title="📺央视JR",CCTV-08
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="📺央视JR",CCTV-8
 http://rihou.cc:555/tv/[JR]CCTV-08
-#EXTINF:-1 tvg-name="CCTV09" tvg-logo="https://logo.catvod.com/CCTV09.png" group-title="📺央视JR",CCTV-09
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="📺央视JR",CCTV-9
 http://rihou.cc:555/tv/[JR]CCTV-09
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="📺央视JR",CCTV-10
 http://rihou.cc:555/tv/[JR]CCTV-10
