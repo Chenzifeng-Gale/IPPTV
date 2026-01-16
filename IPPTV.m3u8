@@ -369,7 +369,7 @@ http://go.bkpcp.top/mg/hubws
 http://go.bkpcp.top/mg/hinws
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/陕西卫视.png" group-title="📺咪咕v4",陕西卫视
 http://go.bkpcp.top/mg/sxws
-#EXTINF:-1 tvg-name="兵团卫卫视" tvg-logo="https://logo.catvod.com/兵团卫卫视.png" group-title="📺咪咕v4",兵团卫卫视
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵卫卫视.png" group-title="📺咪咕v4",兵团卫视
 http://go.bkpcp.top/mg/btws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="📺咪咕v4",黑龙江卫视
 http://go.bkpcp.top/mg/hljws
