@@ -38,7 +38,7 @@ http://119.123.179.114:8086/hls/16/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="📺IPTV",CCTV16
 http://119.123.179.114:8086/hls/17/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="📺IPTV",CCTV17
-http://154.17.9.124:7088/udp/239.10.0.244:1025
+http://156.233.226.200:10086/udp/239.10.0.244:1025
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="📺IPTV",广东卫视
 http://119.123.179.114:8086/hls/44/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="📺IPTV",广西卫视
@@ -84,13 +84,13 @@ http://119.123.179.114:8086/hls/143/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="📺IPTV",河北卫视
 http://119.123.179.114:8086/hls/144/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://logo.catvod.com/山西卫视.png" group-title="📺IPTV",山西卫视
-http://119.123.179.114:8086/hls/145/index.m3u8
+http://pplee.vicp.net:4022/udp/233.18.204.211:5140
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/陕西卫视.png" group-title="📺IPTV",陕西卫视
-http://119.123.179.114:8086/hls/146/index.m3u8
+http://pplee.vicp.net:4022/udp/233.18.204.223:5140
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://logo.catvod.com/内蒙古卫视.png" group-title="📺IPTV",内蒙古卫视
-http://119.123.179.114:8086/hls/147/index.m3u8
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://logo.catvod.com/厦门卫视.png" group-title="📺IPTV",厦门卫视
-http://156.233.226.200:10086/udp/239.10.0.178:1025
+http://pplee.vicp.net:4022/udp/233.18.204.217:5140
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://logo.catvod.com/农林卫视.png" group-title="📺IPTV",农林卫视
+http://izihao.cn:7123/956904896
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://logo.catvod.com/延边卫视.png" group-title="📺IPTV",延边卫视
 http://156.233.226.200:10086/udp/239.10.0.140:1025
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="📺IPTV",吉林卫视
@@ -99,21 +99,20 @@ http://119.123.179.114:8086/hls/150/index.m3u8
 http://119.123.179.114:8086/hls/248/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="📺IPTV",辽宁卫视
 http://119.123.179.114:8086/hls/251/index.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="📺IPTV",兵团卫视
+http://pplee.vicp.net:4022/udp/233.18.204.221:5140
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://logo.catvod.com/西藏卫视.png" group-title="📺IPTV",西藏卫视
-http://156.233.226.200:10086/udp/239.11.0.196:1025
+http://pplee.vicp.net:4022/udp/233.18.204.222:5140
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="📺IPTV",宁夏卫视
+http://pplee.vicp.net:4022/udp/233.18.204.230:5140
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="📺IPTV",新疆卫视
-http://156.233.226.200:10086/udp/239.11.0.197:1025
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="📺IPTV",云南卫视
-http://119.123.179.114:8086/hls/154/index.m3u8
+http://pplee.vicp.net:4022/udp/233.18.204.220:5140
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="📺IPTV",青海卫视
 http://156.233.226.200:10086/udp/239.11.0.179:1025
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="📺IPTV",宁夏卫视
-http://156.233.226.200:10086/udp/239.11.0.199:1025
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="📺IPTV",云南卫视
+http://119.123.179.114:8086/hls/154/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="📺IPTV",甘肃卫视
 http://119.123.179.114:8086/hls/157/index.m3u8
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="📺IPTV",兵团卫视
-http://156.233.226.200:10086/udp/239.11.0.198:1025
-
 
 
 
