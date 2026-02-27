@@ -39,46 +39,6 @@ http://119.123.176.249:8086/hls/16/index.m3u8
 http://119.123.176.249:8086/hls/17/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="📺IPTV",CCTV17
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.83:5140
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://logo.catvod.com/CCTV世界地理.png" group-title="📺IPTV",CCTV世界地理
-http://154.17.19.44:7088/udp/239.11.0.63:1025
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://logo.catvod.com/CCTV兵器科技.png" group-title="📺IPTV",CCTV兵器科技
-http://154.17.19.44:7088/udp/239.11.0.57:1025
-#EXTINF:-1 tvg-name="CCTV卫生健康" tvg-logo="https://logo.catvod.com/CCTV卫生健康.png" group-title="📺IPTV",CCTV卫生健康
-http://154.17.19.44:7088/udp/239.11.0.185:1025
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://logo.catvod.com/CCTV央视台球.png" group-title="📺IPTV",CCTV央视台球
-http://154.17.19.44:7088/udp/239.11.0.60:1025
-#EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://logo.catvod.com/CCTV央视文化精品.png" group-title="📺IPTV",CCTV央视文化精品
-http://154.17.19.44:7088/udp/239.11.0.66:1025
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://logo.catvod.com/CCTV女性时尚.png" group-title="📺IPTV",CCTV女性时尚
-http://154.17.19.44:7088/udp/239.11.0.62:1025
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://logo.catvod.com/CCTV怀旧剧场.png" group-title="📺IPTV",CCTV怀旧剧场
-http://154.17.19.44:7088/udp/239.11.0.64:1025
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://logo.catvod.com/CCTV电视指南.png" group-title="📺IPTV",CCTV电视指南
-http://154.17.19.44:7088/udp/239.11.0.58:1025
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://logo.catvod.com/CCTV第一剧场.png" group-title="📺IPTV",CCTV第一剧场
-http://154.17.19.44:7088/udp/239.11.0.67:1025
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://logo.catvod.com/CCTV风云剧场.png" group-title="📺IPTV",CCTV风云剧场
-http://154.17.19.44:7088/udp/239.11.0.65:1025
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://logo.catvod.com/CCTV风云足球.png" group-title="📺IPTV",CCTV风云足球
-http://154.17.19.44:7088/udp/239.11.0.59:1025
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://logo.catvod.com/CCTV风云音乐.png" group-title="📺IPTV",CCTV风云音乐
-http://154.17.19.44:7088/udp/239.11.0.68:1025
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://logo.catvod.com/CCTV高尔夫网球.png" group-title="📺IPTV",CCTV高尔夫网球
-http://154.17.19.44:7088/udp/239.11.0.61:1025
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://logo.catvod.com/怀旧剧场.png" group-title="📺IPTV",怀旧剧场
-http://119.123.176.249:8086/hls/56/index.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="📺IPTV",CGTN
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://logo.catvod.com/CGTN记录.png" group-title="📺IPTV",CGTN记录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://logo.catvod.com/CGTN俄语.png" group-title="📺IPTV",CGTN俄语
-https://russian-livews.CGTN.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://logo.catvod.com/CGTN法语.png" group-title="📺IPTV",CGTN法语
-https://francais-livews.CGTN.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://logo.catvod.com/CGTN西语.png" group-title="📺IPTV",CGTN西语
-https://espanol-liveali.CGTN.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://logo.catvod.com/CGTN阿语.png" group-title="📺IPTV",CGTN阿语
-https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="📺IPTV",广东卫视
 http://119.123.176.249:8086/hls/44/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="📺IPTV",广西卫视
