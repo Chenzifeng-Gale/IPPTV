@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="📺IPTV",CCTV1
 http://119.123.179.126:8086/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="📺IPTV",CCTV2
