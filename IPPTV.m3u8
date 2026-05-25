@@ -419,9 +419,8 @@ https://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="香港频道",凤凰香港
 http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="香港频道",翡翠台
-https://cdn6.163189.xyz/163189/fct4k
+
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="香港频道",翡翠台
-http://rihou.cc:555/tv/[Pd]无线翡4K
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视频网页",CCTV-1综合
