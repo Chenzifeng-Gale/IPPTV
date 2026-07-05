@@ -461,19 +461,19 @@ http://go.bkpcp.top/mg/btws
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="香港频道",东森新闻
 
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://logo.catvod.com/TVBS新闻台.png" group-title="香港频道",TVBS新闻台
-http://rihou.cc:555/tv/[FY]tvbS新闻
+
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="香港频道",无线新闻
-https://cdn6.163189.xyz/163189/wxxw
+
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="香港频道",无线新闻
-http://rihou.cc:555/tv/[Pd]无线新闻
+
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://logo.catvod.com/NOW新闻.png" group-title="香港频道",NOW新闻
-https://cdn.163189.xyz/163189/now
+
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://logo.catvod.com/NOW新闻.png" group-title="香港频道",NOW新闻
-http://rihou.cc:555/tv/[Cx]Now新闻
+
 #EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://logo.catvod.com/有线新闻.png" group-title="香港频道",有线新闻
-http://rihou.cc:555/tv/[Pd]有线新闻
+
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="香港频道",澳视澳门
-http://rihou.cc:555/tv/[Pd]澳视澳门
+
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="香港频道",凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="香港频道",凤凰中文
@@ -488,7 +488,6 @@ https://cdn6.163189.xyz/163189/fhhk
 http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="香港频道",翡翠台
 
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="香港频道",翡翠台
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视频网页",CCTV-1综合
