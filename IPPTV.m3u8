@@ -83,7 +83,6 @@ http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="IPTV",黑龙江卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 
-
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="IPTV",CCTV-1
 http://rihou.cc:555/tv/[mg]CCTV-1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="IPTV",CCTV-2
@@ -150,8 +149,6 @@ http://rihou.cc:555/tv/[mg]陕西卫视
 http://rihou.cc:555/tv/[mg]兵团卫视
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="IPTV",黑龙江卫视
 http://rihou.cc:555/tv/[mg]黑龙江卫视
-
-
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央卫高码",CCTV-1综合
