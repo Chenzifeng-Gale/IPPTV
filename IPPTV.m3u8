@@ -83,7 +83,7 @@ http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="IPTV",黑龙江卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+
 #EXTINF:-1 tvg-name="CCTV01" tvg-logo="https://logo.catvod.com/CCTV01.png" group-title="IPTV",CCTV-01
 http://rihou.cc:555/tv/[mg]CCTV-01
 #EXTINF:-1 tvg-name="CCTV02" tvg-logo="https://logo.catvod.com/CCTV02.png" group-title="IPTV",CCTV-02
