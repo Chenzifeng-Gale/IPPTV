@@ -84,25 +84,25 @@ http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 
 
-#EXTINF:-1 tvg-name="CCTV01" tvg-logo="https://logo.catvod.com/CCTV01.png" group-title="IPTV",CCTV-01
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="IPTV",CCTV-01
 http://rihou.cc:555/tv/[mg]CCTV-1
-#EXTINF:-1 tvg-name="CCTV02" tvg-logo="https://logo.catvod.com/CCTV02.png" group-title="IPTV",CCTV-02
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="IPTV",CCTV-02
 http://rihou.cc:555/tv/[mg]CCTV-2
-#EXTINF:-1 tvg-name="CCTV03" tvg-logo="https://logo.catvod.com/CCTV03.png" group-title="IPTV",CCTV-03
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="IPTV",CCTV-03
 http://rihou.cc:555/tv/[mg]CCTV-3
-#EXTINF:-1 tvg-name="CCTV04" tvg-logo="https://logo.catvod.com/CCTV04.png" group-title="IPTV",CCTV-04
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="IPTV",CCTV-04
 http://rihou.cc:555/tv/[mg]CCTV-4
-#EXTINF:-1 tvg-name="CCTV05" tvg-logo="https://logo.catvod.com/CCTV05.png" group-title="IPTV",CCTV-05
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="IPTV",CCTV-05
 http://rihou.cc:555/tv/[mg]CCTV-5
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="IPTV",CCTV-5+
 http://rihou.cc:555/tv/[mg]CCTV-5p
-#EXTINF:-1 tvg-name="CCTV06" tvg-logo="https://logo.catvod.com/CCTV06.png" group-title="IPTV",CCTV-06
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="IPTV",CCTV-06
 http://rihou.cc:555/tv/[mg]CCTV-6
-#EXTINF:-1 tvg-name="CCTV07" tvg-logo="https://logo.catvod.com/CCTV07.png" group-title="IPTV",CCTV-07
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="IPTV",CCTV-07
 http://rihou.cc:555/tv/[mg]CCTV-7
-#EXTINF:-1 tvg-name="CCTV08" tvg-logo="https://logo.catvod.com/CCTV08.png" group-title="IPTV",CCTV-08
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="IPTV",CCTV-08
 http://rihou.cc:555/tv/[mg]CCTV-8
-#EXTINF:-1 tvg-name="CCTV09" tvg-logo="https://logo.catvod.com/CCTV09.png" group-title="IPTV",CCTV-09
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="IPTV",CCTV-09
 http://rihou.cc:555/tv/[mg]CCTV-9
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="IPTV",CCTV-10
 http://rihou.cc:555/tv/[mg]CCTV-10
