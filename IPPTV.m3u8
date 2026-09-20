@@ -779,31 +779,6 @@ http://k.061899.xyz/k.php?id=jtyy
 #EXTINF:-1 group-title="央视频道",CHC家庭影院
 http://2280.eu.org:1234/644368373
 
-
-#EXTINF:-1 group-title="教育频道",中国教育1台
-http://198.204.228.26/live/cetv1hd.m3u8
-#EXTINF:-1 group-title="教育频道",中国教育1台
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
-#EXTINF:-1 group-title="教育频道",中国教育1台
-http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="教育频道",中国教育1台
-http://120.76.248.139/live/bfgd/4200000135.m3u8
-#EXTINF:-1 group-title="教育频道",中国教育1台
-http://111.231.6.102:1234/923287154
-#EXTINF:-1 group-title="教育频道",中国教育1台
-http://218.206.193.218:8888/hls/16/index.m3u8
-#EXTINF:-1 group-title="教育频道",中国教育2台
-http://111.231.6.102:1234/923287211
-#EXTINF:-1 group-title="教育频道",中国教育2台
-http://218.206.193.218:8888/hls/49/index.m3u8
-#EXTINF:-1 group-title="教育频道",中国教育3台
-http://107.150.60.122/live/cetv3.m3u8
-#EXTINF:-1 group-title="教育频道",中国教育3台
-http://198.204.228.26/live/cetv3.m3u8
-#EXTINF:-1 group-title="教育频道",中国教育4台
-http://111.231.6.102:1234/923287339
-
-
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://192.151.150.154/live/zjwshd.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
