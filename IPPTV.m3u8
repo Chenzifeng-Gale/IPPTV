@@ -1,125 +1,107 @@
-
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视高码",CCTV-1
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视高码",CCTV-2
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视高码",CCTV-3
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视高码",CCTV-4
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视高码",CCTV-5
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视高码",CCTV-5+
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视高码",CCTV-6
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视高码",CCTV-7
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视高码",CCTV-8
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视高码",CCTV-9
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视高码",CCTV-10
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视高码",CCTV-11
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视高码",CCTV-12
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视高码",CCTV-13
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视高码",CCTV-14
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视高码",CCTV-15
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视高码",CCTV-16
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视高码",CCTV-17
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="央视高码",北京卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="央视高码",东方卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="央视高码",浙江卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="央视高码",江苏卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="央视高码",湖南卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="央视高码",广东卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="央视高码",深圳卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="央视高码",天津卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="央视高码",安徽卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="央视高码",山东卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="央视高码",辽宁卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="央视高码",河北卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="央视高码",河南卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="央视高码",江西卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="央视高码",四川卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="央视高码",重庆卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/贵州卫视.png" group-title="央视高码",贵州卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="央视高码",湖北卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="央视高码",广西卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="央视高码",东南卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="央视高码",海南卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="央视高码",青海卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="央视高码",吉林卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="央视高码",黑龙江卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
-
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV2
 http://101.35.240.114:88/live.php?id=CCTV2
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV3
 http://101.35.240.114:88/live.php?id=CCTV3
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV4
 http://101.35.240.114:88/live.php?id=CCTV4
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" http-user-agent="iPhone" group-title="央视IPV4",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" http-user-agent="iPhone" group-title="IPV4",CCTV5
 http://101.35.240.114:88/live.php?id=CCTV5
-#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" http-user-agent="iPhone" group-title="央视IPV4",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" http-user-agent="iPhone" group-title="IPV4",CCTV5+
 http://101.35.240.114:88/live.php?id=CCTV5p
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV6
 http://101.35.240.114:88/live.php?id=CCTV6
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV7
 http://101.35.240.114:88/live.php?id=CCTV7
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV8
 http://101.35.240.114:88/live.php?id=CCTV8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV9
 http://101.35.240.114:88/live.php?id=CCTV9
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV10
 http://101.35.240.114:88/live.php?id=CCTV10
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV11
 http://101.35.240.114:88/live.php?id=CCTV11
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV12
 http://101.35.240.114:88/live.php?id=CCTV12
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV13
 http://101.35.240.114:88/live.php?id=CCTV13
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV14
 http://101.35.240.114:88/live.php?id=CCTV14
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV15
 http://101.35.240.114:88/live.php?id=CCTV15
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="iPhone" http-referer="https:/aptv.app/" group-title="央视IPV4",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="iPhone" http-referer="https:/aptv.app/" group-title="IPV4",CCTV16
 http://101.35.240.114:88/live.php?id=CCTV16
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" http-user-agent="AptvPlayer-UA" group-title="IPV4",CCTV17
 http://101.35.240.114:88/live.php?id=CCTV17
+#EXTINF:-1 tvg-name="CHC家庭影院" http-user-agent="AptvPlayer-UA" group-title="IPV4",CHC家庭影院
+http://101.35.240.114:88/live.php?id=CHC家庭影院
+#EXTINF:-1 tvg-name="CHC动作电影" http-user-agent="AptvPlayer-UA" group-title="IPV4",CHC动作电影
+http://101.35.240.114:88/live.php?id=CHC动作电影
+#EXTINF:-1 tvg-name="CHC影迷电影" http-user-agent="AptvPlayer-UA" group-title="IPV4",CHC影迷电影
+http://101.35.240.114:88/live.php?id=CHC影迷电影
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" http-user-agent="AptvPlayer-UA" http-referer="https:/aptv.app/" group-title="IPV4",湖南卫视
+http://101.35.240.114:88/live.php?id=湖南卫视4K
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",北京卫视
+http://101.35.240.114:88/live.php?id=北京卫视
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",深圳卫视
+http://101.35.240.114:88/live.php?id=深圳卫视4K
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",浙江卫视
+http://101.35.240.114:88/live.php?id=浙江卫视4K
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="AptvPlayer-UA" http-header="Referer=https://litchi-play-encrypted-site.jstv.com/" group-title="IPV4",江苏卫视
+http://101.35.240.114:88/live.php?id=江苏卫视4K
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",陕西卫视
+http://101.35.240.114:88/live.php?id=陕西卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",湖北卫视
+http://101.35.240.114:88/live.php?id=湖北卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",内蒙古卫视
+http://101.35.240.114:88/live.php?id=内蒙古卫视
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",江西卫视
+http://101.35.240.114:88/live.php?id=江西卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",广东卫视
+http://101.35.240.114:88/live.php?id=广东卫视4K
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",东方卫视
+http://101.35.240.114:88/live.php?id=东方卫视4K
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",西藏卫视
+http://101.35.240.114:88/live.php?id=西藏卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",新疆卫视
+http://101.35.240.114:88/live.php?id=新疆卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",青海卫视
+http://101.35.240.114:88/live.php?id=青海卫视
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",东南卫视
+http://101.35.240.114:88/live.php?id=东南卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",吉林卫视
+http://101.35.240.114:88/live.php?id=吉林卫视
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",四川卫视
+http://101.35.240.114:88/live.php?id=四川卫视4K
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",天津卫视
+http://101.35.240.114:88/live.php?id=天津卫视
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" http-user-agent="iPhone" http-referer="https://www.ahtv.cn/" group-title="IPV4",安徽卫视
+http://101.35.240.114:88/live.php?id=安徽卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",山东卫视
+http://101.35.240.114:88/live.php?id=山东卫视4K
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",山西卫视
+http://101.35.240.114:88/live.php?id=山西卫视
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="IPV4",广西卫视
+rtmp://live.gxrb.com.cn/hls/a23
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",河北卫视
+http://101.35.240.114:88/live.php?id=河北卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",河南卫视
+http://101.35.240.114:88/live.php?id=河南卫视
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",甘肃卫视
+http://101.35.240.114:88/live.php?id=甘肃卫视
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",贵州卫视
+http://101.35.240.114:88/live.php?id=贵州卫视
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",辽宁卫视
+http://101.35.240.114:88/live.php?id=辽宁卫视
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",重庆卫视
+http://101.35.240.114:88/live.php?id=重庆卫视
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",黑龙江卫视
+http://101.35.240.114:88/live.php?id=黑龙江卫视
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",海南卫视
+http://101.35.240.114:88/live.php?id=海南卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" http-user-agent="AptvPlayer-UA" group-title="IPV4",大湾区卫视
+http://101.35.240.114:88/live.php?id=大湾区卫视
 
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="香港频道",寰宇新闻
 
@@ -148,15 +130,15 @@ http://101.35.240.114:88/live.php?id=CCTV17
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="香港频道",澳视澳门
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="香港频道",凤凰中文
-
+http://101.35.240.114:88/phenix.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="香港频道",凤凰中文
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="香港频道",凤凰资讯
-
+http://101.35.240.114:88/phenix.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="香港频道",凤凰资讯
 
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="香港频道",凤凰香港
-
+http://101.35.240.114:88/phenix.php?id=fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="香港频道",凤凰香港
 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="香港频道",翡翠台
